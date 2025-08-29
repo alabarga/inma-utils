@@ -39,7 +39,7 @@ class SpanishLawRAG:
         # Initialize vector store
         if use_pgvector and database_url:
             from langchain_community.vectorstores import PGVector
-            from ...utils.embeddings import PortkeyEmbeddings
+            from utils.embeddings import PortkeyEmbeddings
             
             embeddings = PortkeyEmbeddings(model="text-embedding-004")
             
@@ -51,7 +51,7 @@ class SpanishLawRAG:
         else:
             # Use FAISS
             from langchain_community.vectorstores import FAISS
-            from ...utils.embeddings import PortkeyEmbeddings
+            from utils.embeddings import PortkeyEmbeddings
             
             embeddings = PortkeyEmbeddings(model="text-embedding-004")
             
