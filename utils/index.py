@@ -17,44 +17,12 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.embeddings import Embeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-# Portkey configuration
-from portkey_ai import Portkey
+# Import shared embeddings class
+from utils.embeddings import PortkeyEmbeddings
 
 # Environment variables
 GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
 GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
-
-
-class PortkeyEmbeddings(Embeddings):
-    """Custom embeddings class that uses Portkey client directly."""
-    
-    def __init__(self, client: Portkey, model: str = "text-embedding-004"):
-        self.client = client
-        self.model = model
-    
-    def embed_documents(self, texts: List[str]) -> List[List[float]]:
-        """Embed a list of documents using Portkey."""
-        try:
-            response = self.client.portkey.embeddings.create(
-                input=texts,
-                model=self.model
-            )
-            return [embedding.embedding for embedding in response.data]
-        except Exception as e:
-            print(f"Error embedding documents: {e}")
-            raise
-    
-    def embed_query(self, text: str) -> List[float]:
-        """Embed a single query using Portkey."""
-        try:
-            response = self.client.portkey.embeddings.create(
-                input=[text],
-                model=self.model
-            )
-            return response.data[0].embedding
-        except Exception as e:
-            print(f"Error embedding query: {e}")
-            raise
 
 
 class SpanishLawIndexer:
@@ -66,15 +34,8 @@ class SpanishLawIndexer:
             separators=["\n\n", "\n", ". ", " ", ""]
         )
         
-        # Initialize Portkey client as specified in README
-        self.client = Portkey(
-            api_key=GALILEO_API_KEY,
-            provider="vertex-ai",
-            base_url=GALILEO_BASE_URL,
-        )
-        
-        # Initialize embeddings using the client
-        self.embeddings = PortkeyEmbeddings(self.client, model="text-embedding-004")
+        # Initialize embeddings using the shared class
+        self.embeddings = PortkeyEmbeddings(model="text-embedding-004")
         
     def load_law_documents(self) -> List[Dict[str, Any]]:
         """Load all structured JSON law files."""

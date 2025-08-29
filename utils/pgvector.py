@@ -28,13 +28,8 @@ DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://user:password@localhost:5
 class PGVectorMigrator:
     def __init__(self, database_url: str = DATABASE_URL):
         self.database_url = database_url
-        # Initialize Portkey client as specified in README
-        self.client = Portkey(
-            api_key=GALILEO_API_KEY,
-            provider="vertex-ai",
-            base_url=GALILEO_BASE_URL,
-        )
-        self.embeddings = PortkeyEmbeddings(self.client, model="text-embedding-004")
+        # Initialize embeddings using the shared class
+        self.embeddings = PortkeyEmbeddings(model="text-embedding-004")
         
     def setup_database(self):
         """Set up the database with pgvector extension and required tables."""
