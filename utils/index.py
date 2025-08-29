@@ -18,7 +18,7 @@ from langchain_core.embeddings import Embeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Import shared embeddings class
-from utils.embeddings import PortkeyEmbeddings
+from .utils.embeddings import PortkeyEmbeddings
 
 # Environment variables
 GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
