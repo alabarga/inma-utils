@@ -1,0 +1,1036 @@
+{
+  "ley": "DECRETO FORAL 25/2011, DE 28 DE MARZO, POR EL QUE SE REGULA EL CENSO DE SOLICITANTES DE VIVIENDA PROTEGIDA.",
+  "publication": "Publicado en el Boletín Oficial de Navarra de 1 de abril de 2011",
+  "preambulo": {
+    "parrafos": [
+      {
+        "id": "00d9a9f5-4157-41af-affe-3bab9c57011c",
+        "texto": "El presente Decreto Foral tiene por objeto principal el desarrollo del Título III de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra. En dicho Título se regulan las condiciones generales de acceso a las viviendas protegidas, se trazan las líneas estratégicas del procedimiento de adjudicación y se establecen las bases necesarias para la puesta en marcha del Censo de solicitantes de vivienda protegida."
+      },
+      {
+        "id": "612eef08-9e0e-41bf-8167-89f4e139f96c",
+        "texto": "El Censo de solicitantes de vivienda protegida se configura como un registro único en el que deben inscribirse todas las personas que, cumpliendo con los requisitos, desean acceder a una vivienda protegida en la Comunidad Foral. Con la creación del Censo se persigue un triple objetivo: agilizar los procedimientos de adjudicación de vivienda protegida favoreciendo la trasparencia y simplificación pero manteniendo la equidad mediante la aplicación de baremo, avanzar en la máxima adecuación (número, tipología, situación, tamaño...) entre la demanda de vivienda protegida y la oferta, y proporcionar a las administraciones públicas la máxima información en la planificación de sus políticas en materia de suelo y vivienda."
+      },
+      {
+        "id": "c8f9a2ac-0e7e-4f1a-abc5-70936b86b62f",
+        "texto": "El legislador consciente de la dificultad que reviste la implantación de esta nueva herramienta, así como del impacto que provocará en los procedimientos de adjudicación de las viviendas protegidas, incluyó dentro de las Disposiciones Adicionales de la Ley Foral 10/2010, de 10 de mayo , la habilitación reglamentaria necesaria para regular el Censo de solicitantes."
+      },
+      {
+        "id": "abd89d2f-87b3-40ac-bd00-6a3918610821",
+        "texto": "De este modo, se hace necesario un desarrollo reglamentario en el que se recojan los diferentes aspectos a tener en cuenta tanto en el procedimiento de adjudicación de las viviendas protegidas como en el propio funcionamiento del Censo de solicitantes."
+      }
+    ]
+  },
+  "capitulos": [
+    {
+      "capitulo": "I",
+      "titulo": "Disposiciones generales",
+      "articulos": [
+        {
+          "articulo": 1,
+          "titulo": "Objeto.",
+          "parrafos": [
+            {
+              "id": "310e579c-f47d-401a-86b7-dcb80e565e74",
+              "texto": "Es objeto del presente Decreto Foral el desarrollo de lo dispuesto en el Título III de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra. Para ello, se regulan los siguientes aspectos: - a) El desarrollo de los requisitos generales de acceso a vivienda protegida, así como de los apartados de los baremos de acceso a la propiedad y al arrendamiento de vivienda protegida. - b) El Censo de solicitantes de vivienda protegida. - c) El procedimiento de adjudicación de las viviendas protegidas."
+            }
+          ]
+        },
+        {
+          "articulo": 2,
+          "titulo": "Fechas de referencia para acreditar el cumplimiento de las condiciones generales.",
+          "parrafos": [
+            {
+              "id": "13f422a9-3bc0-44af-811e-fd4a84953cd1",
+              "texto": "1. Los requisitos generales de acceso a una vivienda protegida, a las ayudas públicas establecidas para dicho acceso, así como las circunstancias puntuables según el baremo aplicable, cualquiera que sea el título por el que se acceda, deberán concurrir en el solicitante en el momento de realizar la solicitud de inscripción en el Censo de solicitantes y mantenerse en la fecha en la que se inicie el correspondiente procedimiento de adjudicación en el que se haya resultado adjudicatario, una vez se adjudique una vivienda protegida. Ello sin perjuicio de la obligación que tiene toda persona inscrita en el Censo de mantener actualizados los datos y circunstancias puntuables que se hubieran indicado."
+            },
+            {
+              "id": "02ebfdf8-aedf-495d-bfda-0fc3955dffa8",
+              "texto": "2. Cuando se trate de adjudicar una vivienda vacante, la fecha de referencia para acreditar el cumplimiento de las condiciones establecidas en el apartado anterior, será, además de la del momento de realizar la solicitud de inscripción, la de presentación del contrato para su visado administrativo. Asimismo, tal fecha será tenida en cuenta para la acreditación de los requisitos legalmente establecidos en relación con las personas que alquilen una vivienda protegida a un particular."
+            }
+          ]
+        },
+        {
+          "articulo": 3,
+          "titulo": "Unidades familiares y familias numerosas.",
+          "parrafos": [
+            {
+              "id": "1cf1610c-14fd-49b7-bca1-5266ebf8d746",
+              "texto": "1. Las familias numerosas que acrediten estar en posesión del correspondiente título en vigor podrán acogerse a los siguientes beneficios en materia de vivienda: - a) Acceder a la reserva legal de viviendas protegidas para tales familias. - b) Acceder a las subvenciones específicamente previstas para familias numerosas. - c) Percibir el precio de venta al que se refiere el apartado 2.b) del artículo 13 del presente Decreto Foral, en el supuesto de ofrecimiento de su vivienda. - d) Considerar inadecuada la superficie de su vivienda en relación con la composición familiar. - e) Computar las superficies máximas autorizables en viviendas protegidas destinadas a familias numerosas. - f) Cualesquiera otros específicamente reconocidos para familias numerosas."
+            },
+            {
+              "id": "7412536c-4980-4cf7-81ae-b614c72e71d0",
+              "texto": "2. A los efectos previstos en el apartado anterior, no computarán las personas que sean titulares del dominio o de un derecho real de uso o disfrute sobre alguna vivienda o parte alícuota de la misma."
+            },
+            {
+              "id": "090c5e2a-4ab1-4175-b92d-8544f7d01974",
+              "texto": "3. A todos los demás efectos previstos en el presente Decreto Foral, el concepto de unidad familiar será el que rija al respecto en la regulación del Impuesto sobre la Renta de las Personas Físicas, con las salvedades previstas en la normativa que resulte de aplicación. En el caso de personas separadas legalmente o cuando no existiera vínculo matrimonial ni pareja estable, se presumirá que conviven con el solicitante aquellos descendientes sobre los que se ostenta la patria potestad, aunque sea compartida."
+            }
+          ]
+        },
+        {
+          "articulo": 4,
+          "titulo": "Renta ponderada.",
+          "parrafos": [
+            {
+              "id": "c396aeae-74c8-48fb-b30d-4ba4fddbafe1",
+              "texto": "1. La renta ponderada para el acceso a la vivienda protegida y a la financiación cualificada de las actuaciones protegibles existentes en materia de vivienda se acreditará mediante la presentación del modelo oficial de la declaración del Impuesto sobre la Renta de las Personas Físicas, y se calculará conforme a lo previsto en la disposición final primera apartado catorce del presente Decreto Foral."
+            },
+            {
+              "id": "c88741d5-8ad9-4aae-b078-361e67f10b1f",
+              "texto": "2. A los efectos previstos en el presente reglamento, las fechas de referencia para la presentación de la declaración del Impuesto sobre la Renta de las Personas Físicas ante las Administraciones tributarias competentes serán las previstas en el artículo 2 del presente Decreto Foral."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "capitulo": "II",
+      "titulo": "Condiciones de acceso a la vivienda protegida",
+      "articulos": [
+        {
+          "articulo": 5,
+          "titulo": "Requisitos generales de acceso a vivienda protegida y para la inscripción en el Censo de solicitantes.",
+          "parrafos": [
+            {
+              "id": "6269a082-ae0d-4e2d-8968-d5a3c87ed6da",
+              "texto": "Sin perjuicio de los legalmente previstos, son requisitos generales para acceder por cualquier título a una vivienda protegida, a las ayudas públicas establecidas para dicho acceso, así como para inscribirse en el Censo de solicitantes, los siguientes: - a) Requisitos personales. - b) Requisitos de capacidad económica. - c) Requisitos relativos a la titularidad de vivienda. - d) Requisitos relativos a las transmisiones anteriores de vivienda."
+            }
+          ]
+        },
+        {
+          "articulo": 6,
+          "titulo": "Requisitos personales.",
+          "parrafos": [
+            {
+              "id": "21cc916f-a470-4f29-b1a9-3252d00268cf",
+              "texto": "1. Únicamente las personas físicas que no se encuentren incapacitadas civilmente para obligarse y que hayan alcanzado la mayoría de edad o sean menores emancipadas, podrán inscribirse en el Censo de solicitantes y acceder a una vivienda protegida."
+            },
+            {
+              "id": "91f56770-b70f-4f9f-b8fa-b8f031b3af8f",
+              "texto": "2. Asimismo, todas las personas que accedan a una vivienda protegida o que vayan a inscribirse en el Censo de solicitantes deben: - a) Estar empadronadas, con residencia efectiva, en algún municipio de Navarra, aportando al efecto certificado de empadronamiento conforme a lo establecido en la legislación reguladora del régimen local, todo ello sin perjuicio de lo establecido en la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra , para los residentes navarros en el exterior. - b) Contar con permiso de residencia cuando dicho documento resulte exigible."
+            }
+          ]
+        },
+        {
+          "articulo": 7,
+          "titulo": "Requisitos de capacidad económica.",
+          "parrafos": [
+            {
+              "id": "048b4242-7a1f-4ca1-88a0-d97b5f4ef791",
+              "texto": "1. Como ingresos mínimos a acreditar se exigirá que la suma de las partes generales de las bases imponibles y las rentas exentas de tributación de los solicitantes y sus cónyuges o parejas estables sea igual o superior a 3.000 euros en el caso de que accedan a viviendas protegidas en régimen de arrendamiento, con y sin opción de compra, 12.000 euros si acceden a una viviendas de protección oficial en régimen de propiedad, cuantía que se elevará a 15.000 euros para las viviendas de precio tasado, computados conforme a lo dispuesto en el presente Decreto Foral."
+            },
+            {
+              "id": "3580e24e-5e03-40a7-b665-d344f8fa6730",
+              "texto": "2. Asimismo, quienes accedan a una vivienda protegida o vayan a inscribirse en el Censo de solicitantes deberán tener unos ingresos familiares ponderados inferiores a los previstos para cada tipo de vivienda en el artículo 18 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            },
+            {
+              "id": "8b376167-9326-47f2-bf33-792454bae2e9",
+              "texto": "3. El cumplimiento de estos requisitos de capacidad económica deberá acreditarse en cada una de las fechas a las que se refiere el artículo 2 de este decreto foral con referencia al último período impositivo cuyo plazo de presentación de declaración del Impuesto sobre la Renta de las Personas Físicas haya concluido. La redacción de este apartado corresponde a la establecida por Ley Foral 28/2018, de 26 de diciembre, sobre el derecho subjetivo a la vivienda en Navarra La redacción original era la siguiente: \"3. El cumplimiento de estos requisitos de capacidad económica deberá acreditarse en cada una de las fechas a las que se refiere el artículo 2 de este Decreto Foral con referencia al último período impositivo cuyo plazo de presentación de declaración del Impuesto sobre la Renta de las Personas Físicas haya concluido a fecha 1 de enero de cada año natural.\""
+            }
+          ]
+        },
+        {
+          "articulo": 8,
+          "titulo": "Requisitos relativos a la titularidad de vivienda.",
+          "parrafos": [
+            {
+              "id": "73fba26c-2fe5-41d5-83ae-eaead0df7123",
+              "texto": "Todas las personas que accedan a una vivienda o que vayan a inscribirse en el Censo de solicitantes, así como todos los miembros de su unidad familiar, deben cumplir con los siguientes requisitos relativos a la titularidad de vivienda: a) Que no sean titulares del dominio o de un derecho real de uso o disfrute sobre alguna otra vivienda o parte alícuota de la misma, salvo que se cumplan los requisitos de inadecuación y ofrecimiento de su actual vivienda previstos en el número 5.º del artículo 17 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra. b) En el caso de acceso a una vivienda protegida en régimen de propiedad o de arrendamiento con opción de compra, se exigirá además: b.1) Que no tengan adjudicada provisionalmente una vivienda protegida o visado por el Departamento competente en materia de vivienda un contrato de compraventa o de adjudicación en propiedad o en arrendamiento con opción de compra de otra vivienda protegida. b.2) Que no hayan suscrito un contrato privado para la adquisición de una vivienda libre, salvo que sea anulado o dejado sin efecto."
+            }
+          ]
+        },
+        {
+          "articulo": 9,
+          "titulo": "Requisitos relativos a transmisiones anteriores.",
+          "parrafos": [
+            {
+              "id": "5bf692a5-e87c-4abb-bb12-f1e83f0c5d90",
+              "texto": "1. Todas las personas que accedan a una vivienda o que vayan a inscribirse en el Censo de solicitantes y los miembros de sus unidades familiares no pueden haber transmitido el dominio o un derecho real de uso o disfrute sobre alguna otra vivienda o parte alícuota de la misma en los últimos cinco años, excepto cuando la transmisión no haya generado ingresos superiores a 90.000 euros. En caso de haberse efectuado varias transmisiones, el importe de 90.000 euros se referirá al total de ingresos generados por todas ellas. A estos efectos, se entienden por transmisiones de dominio o de derecho real de uso o disfrute sobre la vivienda aquéllas que no sean de naturaleza expropiatoria."
+            },
+            {
+              "id": "8a38e069-a663-4284-960b-df341363dfd2",
+              "texto": "2. A los efectos de lo dispuesto en el apartado anterior, se considerarán ingresos generados por la transmisión las cantidades obtenidas minoradas en la parte no amortizada del préstamo correspondiente a la escritura de compraventa o adjudicación de la vivienda transmitida. No se tendrán en cuenta ni los impuestos que pudieran gravar la transmisión, ni los honorarios de los Notarios y Registradores de la Propiedad, ni cualquier otro tipo de gasto accesorio a la venta de la vivienda, como pudieran ser los de gestión. Si los transmitentes son varios, se computará la parte del precio de transmisión de la vivienda minorada, en su caso, en la parte no amortizada del préstamo hipotecario que haya correspondido al solicitante de la vivienda protegida. La transmisión, ya sea a titulo oneroso o gratuito, se acreditará mediante la presentación de la escritura pública correspondiente y la liquidación de los impuestos que la graven. Se tomará como valor de transmisión el mayor de los siguientes valores: a) El declarado. b) Si la vivienda es protegida, el máximo correspondiente en esa clase de viviendas a la propia vivienda y a sus anejos, incluso en el caso de que la transmisión no haya sido onerosa. c) Si la vivienda no es protegida, el comprobado por la Administración tributaria competente para la liquidación del impuesto sobre transmisiones patrimoniales o, en su caso, del impuesto que grave la correspondiente transmisión. A estos efectos, los derechos reales de uso o disfrute y la nuda propiedad se valorarán al 50% del precio que hubiera correspondido a la plena propiedad."
+            },
+            {
+              "id": "10031f3a-7374-434a-bf92-12333bb0a60e",
+              "texto": "3. La renuncia a derechos reparcelatorios a cambio de vivienda para realojo conforme a la normativa urbanística vigente no se considera equivalente a la percepción de dichas cantidades y, en consecuencia, no impide en ningún caso el acceso a la propiedad de la vivienda protegida adjudicada. Las compensaciones por expropiación de vivienda sólo impedirán optar a una vivienda protegida, durante un plazo de cinco años, cuando su cuantía exceda del precio de la vivienda que se pretenda adquirir con sus anejos."
+            },
+            {
+              "id": "a180fd7c-311a-4ef1-b0d5-0225c3cdbb6a",
+              "texto": "4. A los efectos de cumplir con este requisito de acceso a vivienda protegida y subvención, por ingresos generados con la transmisión de una vivienda se entenderán las compensaciones que se produzcan a favor de uno u otro cónyuge, como consecuencia de procesos de separación matrimonial, divorcio o ruptura de parejas estables, al adjudicarse uno de los cónyuges una vivienda. Este apartado fue añadido por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda."
+            }
+          ]
+        },
+        {
+          "articulo": 10,
+          "titulo": "Requisitos generales de acceso a subvención por adquisición o arrendamiento de vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "a4dbfe49-1707-494f-bc83-aed4fc908d45",
+              "texto": "1. Quienes cumplan con los requisitos generales de acceso a vivienda protegida regulados en el presente Decreto Foral, podrán acceder, asimismo, a las subvenciones legal o reglamentariamente establecidas por adquisición o arrendamiento de vivienda protegida."
+            },
+            {
+              "id": "c35271b3-a521-4baa-8f87-2d462fe71144",
+              "texto": "2. No obstante lo dispuesto en el apartado anterior, no podrán acceder a las subvenciones correspondientes por adquisición o arrendamiento de vivienda protegida: a) Quienes hayan transmitido el dominio o un derecho real de uso o disfrute sobre alguna vivienda o parte alícuota de la misma, en los últimos cinco años, de forma que dicha transmisión hubiera generado ingresos superiores a 60.000 euros, calculados conforme lo dispuesto en el artículo anterior. b) Quienes sean titulares de vivienda inadecuada cuyo ofrecimiento de venta no haya sido aceptado por el Gobierno de Navarra o por alguna de las entidades previstas en el artículo 17.5.ºb) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, o habiéndose aceptado los ingresos generados sean superiores a 60.000 euros. Lo dispuesto en este apartado no resultará de aplicación cuando se trate del ofrecimiento de una vivienda que resulte inadecuada por estar incluida en alguno de los supuestos establecidos en los apartados 4, 5 y 6 del artículo 12 del presente Decreto Foral. c) Quienes en la declaración del Impuesto sobre la Renta de las Personas Físicas que corresponda presentar para la acreditación del cumplimiento del requisito de capacidad económica, hayan declarado como ingresos de la parte especial del ahorro una cantidad superior a 5.000 euros. La redacción de esta letra corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"c) Quienes en la declaración del Impuesto sobre la Renta de las Personas Físicas que corresponda presentar para la acreditación del cumplimiento del requisito de capacidad económica, hayan declarado como ingresos de la parte especial del ahorro una cantidad superior a 10.000 euros.\" d) Quienes tengan bienes, derechos o activos financieros por importe superior a 90.000 euros, salvo que estuvieran afectos a una actividad empresarial o profesional. e) Quienes no adquieran o arrienden una vivienda protegida directamente de un promotor o, en su caso, del Gobierno de Navarra o de una sociedad instrumental de éste. f) Quienes accedan a una vivienda protegida acogiéndose a lo previsto en el artículo 12 de la Ley Foral 6/2009, de 5 de junio, de medidas urgentes en materia de urbanismo y vivienda, y en el apartado a) del artículo 19 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            }
+          ]
+        },
+        {
+          "articulo": 11,
+          "titulo": "Excepciones al cumplimiento de determinados requisitos de acceso.",
+          "parrafos": [
+            {
+              "id": "76968430-5d1a-4b0c-a45d-c4204c082058",
+              "texto": "1. Se exceptúa del cumplimiento de los requisitos de acceso a vivienda protegida establecidos para las primeras y ulteriores transmisiones de este tipo de viviendas, a los beneficiarios de las siguientes transmisiones: a) Las aportaciones de la vivienda protegida a la sociedad conyugal o al patrimonio común de la pareja estable. b) Las extinciones del condominio. c) Las donaciones o adquisiciones mortis causa de vivienda protegida."
+            },
+            {
+              "id": "5d6af225-ddfb-4d80-bc40-de398884beba",
+              "texto": "2. Lo previsto en el apartado anterior se producirá sin perjuicio de la obligatoria comunicación y autorización previa de la transmisión así como, en su caso, el resto de limitaciones previstas en los artículos 44 y 45 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            }
+          ]
+        },
+        {
+          "articulo": 12,
+          "titulo": "Vivienda inadecuada a efectos de acceder a una vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "0cada1c2-df1d-49ba-98d7-bc83806a3174",
+              "texto": "Las viviendas se considerarán inadecuadas para las necesidades de sus ocupantes en los siguientes casos:"
+            },
+            {
+              "id": "ed3968dd-f8ad-4ae6-bf76-36aeb83ccfa3",
+              "texto": "1. La vivienda de precio libre con una superficie útil en metros cuadrados inferior o igual a 30 m² para unidades familiares de 1 ó 2 personas, 50 m² para 3 personas, 65 m² para 4 personas, 80 m² para 5 ó 6 personas, a 90 m² para 7 personas y 10 metros cuadrados más por cada persona que exceda de 7, siempre que no sea titular de otra vivienda adecuada. La redacción de este apartado corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"Vivienda de precio libre con una superficie útil en metros cuadrados inferior a 30 m² para unidades familiares de 1 o 2 personas, 50 m² para 3 personas, 65 m² para 4 personas, 80 m² para 5 ó 6 personas, 90 m² para 7 personas, y 10 metros cuadrados más por cada persona que exceda de 7, siempre que no se sea titular de otra vivienda adecuada.\""
+            },
+            {
+              "id": "c9022219-8ef8-4b4f-8abd-784c1e477d12",
+              "texto": "2. De acuerdo con lo dispuesto en el apartado 1.b) de los artículos 24 y 25 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se entenderá que existe falta de adaptación de una vivienda de precio libre a las necesidades del solicitante con discapacidad o de algún miembro discapacitado de su unidad familiar, cuando concurra alguno de los siguientes supuestos: a) Se trate de una vivienda a la que sea preciso acceder a través de escalera con varios peldaños de más de 12 centímetros de altura, cuando el solicitante, o algún miembro de su unidad familiar, padezca una discapacidad motriz que afecte a las extremidades inferiores con un grado de discapacidad igual o superior al 40%. b) Se trate de una vivienda cuya adaptación a las necesidades del solicitante o de algún miembro de su unidad familiar, con un grado de discapacidad igual o superior al 65%, no sea técnica o económicamente viable."
+            },
+            {
+              "id": "85142a6a-3c34-4ae7-bb2f-bb7f5f2ba1fa",
+              "texto": "3. Parte alícuota de vivienda inferior al 50% siempre y cuando el valor de mercado de dicha parte alícuota sea inferior a 90.000 euros."
+            },
+            {
+              "id": "260f42a5-a131-4716-b0ec-81ba500a459f",
+              "texto": "4. Vivienda declarada en ruina o a la que se haya denegado la cédula de habitabilidad, siempre que no sea posible su obtención."
+            },
+            {
+              "id": "2afdfdcd-0a99-4a20-9fe5-aa9fd5d37031",
+              "texto": "5. Vivienda incluida en una relación definitiva de bienes y derechos afectados por un expediente expropiatorio."
+            },
+            {
+              "id": "f9ee1e5f-d794-4c48-acba-f7f98384271e",
+              "texto": "6. Vivienda que el planeamiento urbanístico declare fuera de ordenación, cuando se haya aprobado definitivamente el instrumento de gestión urbanística que reconozca los derechos indemnizatorios a favor del solicitante por el desalojo de dicha vivienda, o que deba ser desalojada a causa de la ejecución del planeamiento urbanístico o de actuaciones de rehabilitación o de reforma urbana contempladas en los convenios a que se refiere el artículo 20.3 f) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            },
+            {
+              "id": "1e105014-c2af-4d54-87cd-886f6b275be6",
+              "texto": "7. Vivienda o parte alícuota de la misma cuyo uso no sea posible durante un periodo superior a dos años, contados a partir de las fechas que señala el artículo 2 del presente Decreto Foral, como consecuencia de sentencia judicial de separación o divorcio, o por la que se acuerden medidas de los hijos comunes habidos en la pareja estable."
+            }
+          ]
+        },
+        {
+          "articulo": 13,
+          "titulo": "Ofrecimiento de la vivienda.",
+          "parrafos": [
+            {
+              "id": "60f1e109-0c09-461f-840a-8bc1b831936e",
+              "texto": "1. Corresponde al Departamento competente en materia de vivienda determinar la entidad a la que se deberá ofrecer la vivienda o parte alícuota de la misma que resulte inadecuada conforme a lo establecido en el artículo anterior, sin perjuicio de lo dispuesto en el artículo 17.5.ºb) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            },
+            {
+              "id": "1309809a-c274-4f1a-9f3b-15b3b069461b",
+              "texto": "2. El precio máximo para las viviendas protegidas será el establecido para la segunda transmisión y, cuando se trate de vivienda libre, el mayor de los siguientes: a) Valor catastral. b) El valor que resulte de multiplicar el módulo sin ponderar vigente en la fecha del ofrecimiento por el coeficiente 1,1 y por la superficie útil de vivienda. Para determinar el precio de los anejos se aplicará el coeficiente 0,44 al módulo citado y se multiplicará por la superficie útil de los mismos. Si la vivienda constituye el domicilio de una familia numerosa solicitante cuyos ingresos familiares ponderados no excedan del equivalente a 4,5 veces el IPREM en caso de que se solicite vivienda de protección oficial o 6,5 veces el IPREM si se solicita vivienda de precio tasado, el precio de la vivienda libre ofrecida se podrá incrementar hasta el que resulte de una valoración de precio de mercado debidamente supervisada por el Departamento competente en materia de vivienda, siempre que el importe de dicho precio no sea superior al precio de esta última. A estos efectos, los derechos reales de uso o disfrute se valorarán al 50% del precio que hubiera correspondido a la plena propiedad."
+            },
+            {
+              "id": "b1e5d9fe-0c4f-4b59-9950-5ee508896a39",
+              "texto": "3. Cuando se acceda a una vivienda protegida en régimen de arrendamiento, la persona propietaria de vivienda inadecuada deberá ofrecerla en cesión al Gobierno de Navarra para que, en su caso, la incluya en la Bolsa de Alquiler."
+            },
+            {
+              "id": "7a9fd22d-b12c-4e87-ab7f-96e134cee7bb",
+              "texto": "4. La aceptación del ofrecimiento por el Departamento competente en materia de vivienda, dentro de sus disponibilidades presupuestarias, sólo podrá ser rehusado cuando la demanda de vivienda en el área, o las condiciones objetivas de la vivienda en el aspecto constructivo o en el de su utilidad para satisfacer la demanda de vivienda de precio asequible así lo aconsejen."
+            },
+            {
+              "id": "d6eac427-b2b1-40e7-959d-74a6def2843a",
+              "texto": "5. Cuando el Departamento competente en materia de vivienda acepte el ofrecimiento de vivienda, podrá adjudicarla de acuerdo con lo establecido en la Disposición Adicional Segunda de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, considerando lo siguiente: a) Si la vivienda adquirida está sujeta a protección pública, en la escritura de venta se hará constar que el Gobierno de Navarra ostenta los derechos legales de tanteo y retracto en tanto la vivienda esté sometida al régimen de protección pública. Se deberán convenir derechos de tanteo y retracto convencional por el precio máximo correspondiente a las viviendas protegidas de las mismas dimensiones durante 30 años a partir de la fecha de elevación a escritura pública de la adquisición. b) Si la vivienda adquirida es libre, el Departamento competente en materia de vivienda deberá convenir con la persona o personas propuestas como adjudicatarias un derecho de tanteo y retracto convencional, en las condiciones que se determinen, durante 30 años a partir de la fecha de elevación a escritura pública de la adquisición."
+            },
+            {
+              "id": "2848325d-8dc6-40e5-b631-53693ab3f287",
+              "texto": "6. El Departamento competente en materia de vivienda podrá adquirir o arrendar viviendas libres para destinarlas a actuaciones protegibles, pero sin superar el precio máximo que derive de la valoración de precios de mercado que al efecto se elabore."
+            }
+          ]
+        },
+        {
+          "articulo": 14,
+          "titulo": "Vivienda protegida inadecuada a efectos de acceder a otra adecuada.",
+          "parrafos": [
+            {
+              "id": "9d8f9521-0299-42c5-a72c-2f32b6820056",
+              "texto": "1. A efectos de acogerse al procedimiento de de adjudicación por cambio de vivienda protegida inadecuada previsto en el artículo 33 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, tendrán la consideración de vivienda protegida inadecuada las siguientes: a) La vivienda protegida que en el momento de la calificación definitiva, además de cocina, baño y salón-comedor, disponga de 1 habitación para 3 o más miembros de la unidad familiar, 2 habitaciones para 4 o más miembros 3 habitaciones para 7 o más miembros y 4 habitaciones para 9 o más miembros. Se entenderá que también existe inadecuación cuando deban compartir habitación dos personas de la unidad familiar que sean entre sí ascendientes y descendientes. b) La vivienda protegida con una superficie útil en metros cuadrados inferior o igual a 30 m² para unidades familiares de 1 ó 2 personas, 50 m² para 3 personas, 65 m² para 4 personas, 80 m² para 5 ó 6 personas, 90 m² para 7 personas y 10 metros cuadrados más por cada persona que exceda de 7 hasta el máximo de superficie legalmente establecido, siempre que no sea titular de otra vivienda adecuada. La redacción de esta letra corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"b) La vivienda protegida con una superficie útil en metros cuadrados inferior a 30 m² para unidades familiares de 1 o 2 personas, 50 m² para 3 personas, 65 m² para 4 personas, 80 m² para 5 ó 6 personas, 90 m² para 7 personas, y 10 metros cuadrados más por cada persona que exceda de 7, siempre que no se sea titular de otra vivienda adecuada.\" c) La vivienda protegida no adaptada a las necesidades de una persona discapacitada, ya sea el propietario de la vivienda o cualquiera de los miembros de su unidad familiar, cuando concurra alguno de los siguientes supuestos: c.1) Se trate de una vivienda protegida a la que sea preciso acceder a través de escalera con varios peldaños de más de 12 centímetros de altura, cuando el solicitante, o algún miembro de su unidad familiar, padezca una discapacidad motriz que afecte a las extremidades inferiores con un grado de discapacidad igual o superior al 40%. c.2) Se trate de una vivienda protegida cuya adaptación a las necesidades del solicitante o de algún miembro de su unidad familiar, con un grado de discapacidad igual o superior al 65%, no sea técnica o económicamente viable"
+            },
+            {
+              "id": "4fe41547-d856-4162-8ea0-edb00ab16c82",
+              "texto": "2. A los efectos de lo establecido en el apartado anterior, podrán computarse también como convivientes las personas mayores de 65 años que demuestren cumplir los tres requisitos siguientes: a) Al menos dos años de convivencia efectiva en la vivienda inadecuada. b) Parentesco de primer o segundo grado con alguno de los solicitantes o los miembros de sus unidades familiares. c) No ser titular de una vivienda adecuada ni haberlo sido durante los últimos cinco años."
+            }
+          ],
+          "seccion": "Sección 2.ª: Conceptos relativos a las reservas y a la aplicación de los baremos"
+        },
+        {
+          "articulo": 15,
+          "titulo": "Conceptos relativos a reservas.",
+          "parrafos": [
+            {
+              "id": "b6e32bbc-d984-4087-bf12-293fbe77ec47",
+              "texto": "1. Para acogerse a las reservas correspondientes será condición necesaria y suficiente que el solicitante o un miembro de su unidad familiar cumpla con los requisitos expuestos en los números siguientes."
+            },
+            {
+              "id": "f7cf5e27-2bc4-4050-a2ad-33474f0688fd",
+              "texto": "2. La discapacidad motriz grave prevista en el apartado 1 del artículo 21 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se acreditará mediante certificado emitido por la Agencia Navarra para la Dependencia."
+            },
+            {
+              "id": "d48f0091-4c3a-43c3-bf48-d3f25ff04f07",
+              "texto": "3. La condición de familia numerosa se acreditará mediante el correspondiente título en vigor emitido por el Departamento competente en materia de familia."
+            },
+            {
+              "id": "a8f9bdcf-69f3-4965-a4a9-ad29efb33a71",
+              "texto": "4. Los requisitos establecidos para ser reconocida la condición de víctima de terrorismo, de acuerdo con lo establecido en el apartado 2 del artículo 21 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se acreditarán de la siguiente manera: a) El grado de discapacidad, mediante certificado expedido por la Agencia Navarra para la Dependencia. b) Los actos de terrorismo causantes de fallecimiento o discapacidad, mediante certificación expedida por el órgano competente de la Delegación del Gobierno en Navarra o del Departamento de Presidencia, Justicia e Interior del Gobierno de Navarra. Para acceder a esta reserva específica, si se solicita vivienda en propiedad, deberá acreditarse: a) En caso de que la persona solicitante haya estado casada, su separación o divorcio mediante la correspondiente sentencia judicial. b) La disolución de la comunidad, en el caso de parejas estables. c) En cualquiera de los dos casos, declaración relativa a la inexistencia de comunidad de bienes con quien causó el maltrato, o con otra persona cuando entre los bienes de la comunidad se incluya una vivienda adecuada. d) La existencia de sentencia firme de cualquier órgano jurisdiccional que declare que la persona ha sido víctima de violencia de género. Dicha sentencia deberá haber sido dictada en los cinco años anteriores a la fecha en que se inicie el procedimiento de adjudicación en el que la persona víctima de violencia de género haya resultado adjudicataria de la vivienda."
+            },
+            {
+              "id": "16e26b79-186f-4553-8c7c-e9bcfd58269b",
+              "texto": "6. Las agrupaciones a las que se refiere el segundo párrafo del apartado 5 del artículo 20 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, podrán constituirse como Sociedades civiles, Comunidades de bienes u otras figuras jurídicas legalmente reconocidas que tengan como objeto social o de actividad la construcción de viviendas protegidas."
+            }
+          ]
+        },
+        {
+          "articulo": 16,
+          "titulo": "Baremo para adjudicación de viviendas protegidas en régimen de propiedad y de arrendamiento con opción de compra.",
+          "parrafos": [
+            {
+              "id": "c9a0ccc0-abb3-4aef-a46a-da68e7490dac",
+              "texto": "Para la aplicación del baremo de acceso en primera transmisión a una vivienda protegida en régimen de propiedad o de arrendamiento con opción de compra establecido en el artículo 24 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se atenderá a las siguientes reglas: a) Las puntuaciones de los apartados b), c), d), e) y f), del artículo 24 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, no se acumularán entre sí dentro de una misma solicitud. No obstante lo anterior, en las solicitudes suscritas por más de una persona y que hayan optado a la propiedad y al alquiler de una vivienda protegida, se permitirá que indiquen la situación que más les favorezca en el apartado relativo a la necesidad acreditada de vivienda de cada uno de los baremos. b) Únicamente los propietarios de vivienda inadecuada de precio libre podrán acceder a la puntuación establecida en el artículo 24.1.b) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra. La propiedad de la vivienda inadecuada se acreditará mediante la escritura pública de compra, certificación o nota simple informativa del Registro de la Propiedad. La inadecuación deberá desprenderse del texto de la escritura de compra de la vivienda, o bien deberá acreditarse mediante la aportación de un informe suscrito por técnico competente. c) En el apartado de necesidad acreditada de vivienda del baremo establecido en el artículo 24.1.e) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, la convivencia con otras unidades familiares se acreditará mediante el correspondiente certificado de empadronamiento o, en su caso, de convivencia. d) A efectos del cómputo de titularidad de la cuenta de ahorro para adquisición de una vivienda, para la aplicación de lo establecido en el artículo 24.3 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, únicamente se puntuarán los años de antigüedad enteros a partir de la fecha de apertura de la cuenta. No se prorratearán los excesos. Asimismo, se considerará cumplimentado el requisito de antigüedad ininterrumpida cuando entre la cancelación de una cuenta de ahorro vivienda y la apertura de otra cuenta de la misma clase no haya transcurrido más de un mes. Si la solicitud de vivienda viene suscrita por varias personas con cuenta de ahorro vivienda, únicamente se valorará la que resulte más favorable a efectos de puntuación, sin que puedan acumularse puntos por las otras cuentas. e) A efectos de obtener la puntuación prevista para las personas divorciadas o separadas en el artículo 24.3 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, la acreditación de la separación o divorcio se deberá realizar mediante la aportación de la correspondiente sentencia judicial. En el caso de personas que hayan disuelto su pareja estable, dicha disolución deberá acreditarse mediante cualquiera de las formas previstas en la Ley Foral 6/2000, de 3 de julio, para la igualdad jurídica de las parejas estables . f) La puntuación que se reconoce por titularidad de cuenta de ahorro para la adquisición de vivienda no será acumulable con la que se reconoce a las personas divorciadas, separadas o que hayan disuelto su pareja estable que justifiquen hacer frente a las cargas hipotecarias de la vivienda familiar. En el caso de que se den ambas circunstancias en una misma solicitud o persona, se otorgará la puntuación que resulte más favorable. g) En las solicitudes suscritas por dos o más personas bastará que una de ellas cumpla el requisito de antigüedad en el empadronamiento. La puntuación por empadronamiento del artículo 24.4 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se computará únicamente en relación con el solicitante de mayor antigüedad en el mismo, sin que puedan sumarse por este concepto puntos de otros solicitantes. h) Las declaraciones del IRPF que se tomarán como referencia para acceder a la puntuación prevista en el artículo 24.5 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, serán las cinco últimas que se hubieran presentado tomando para ello como referencia las fechas previstas en el artículo 7.3 de este Decreto Foral. En las solicitudes suscritas por dos o más persona esta puntuación será acumulable. A tal efecto se reconocerá un punto por declaración y persona solicitante, aún en el supuesto de que se tratara de años coincidentes, siempre y cuando se cumpla con el resto de requisitos establecidos legalmente."
+            }
+          ]
+        },
+        {
+          "articulo": 17,
+          "titulo": "Baremo para adjudicación de viviendas protegidas en régimen de arrendamiento sin opción de compra.",
+          "parrafos": [
+            {
+              "id": "c6864c52-c9f9-4973-b31f-2cffb1095b00",
+              "texto": "1. Todas las referencias contenidas en el artículo anterior al artículo 24 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se entenderán realizadas también al apartado correspondiente del artículo 25 , en todo aquello en que ambos baremos sean coincidentes y que no esté expresamente regulado por lo dispuesto en este artículo."
+            },
+            {
+              "id": "d30aff18-e9c7-4fa0-b2fc-d87280272aad",
+              "texto": "2. Las personas que acrediten haber disuelto su pareja estable mediante cualquiera de las formas previstas en la Ley Foral 6/2000, de 3 de julio, para la igualdad jurídica de las parejas estables , tendrán derecho a acceder a la puntuación prevista en el artículo 25.1.d) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "capitulo": "III",
+      "titulo": "Funcionamiento del Censo de solicitantes de vivienda protegida y procedimiento de adjudicación",
+      "articulos": [
+        {
+          "articulo": 18,
+          "titulo": "Naturaleza y objeto del Censo de solicitantes.",
+          "parrafos": [
+            {
+              "id": "2472c6e8-bd55-457d-9da6-efc473683264",
+              "texto": "1. El Censo de solicitantes de vivienda protegida es un registro de titularidad pública, gratuito, de naturaleza administrativa y dependiente del Departamento competente en materia de vivienda."
+            },
+            {
+              "id": "2c843373-4ec8-4ecc-a66e-f0ec5d43655f",
+              "texto": "2. Asimismo, el Censo de solicitantes de vivienda protegida es el instrumento público que tiene por objeto: a) Servir de instrumento para la adjudicación de las viviendas protegidas, tanto en régimen de propiedad como en arrendamiento, con y sin opción de compra. b) Dotar de una mayor transparencia, agilidad y eficacia al procedimiento de adjudicación de viviendas protegidas. c) Centralizar en un Censo único los datos relativos a la demanda y necesidad de vivienda protegida en la Comunidad Foral de Navarra. d) Proporcionar a los solicitantes de vivienda protegida la información relativa a las promociones incluidas en cada procedimiento de adjudicación, baremo aplicable, requisitos mínimos de acceso a las viviendas protegidas, y, en general, sobre aquellas cuestiones que tengan relación con la adjudicación de viviendas protegidas. e) Servir de medio para facilitar aquellas cuestiones de interés para elaborar estudios, propuestas y proyectos en materia de vivienda. f) Proporcionar los datos necesarios que posibiliten el análisis de la evolución de la demanda y la situación del mercado inmobiliario en la Comunidad Foral de Navarra. g) Facilitar la información necesaria para diseñar la política de vivienda del Gobierno de Navarra. h) Facilitar a la Administración de la Comunidad Foral de Navarra el control y seguimiento del cumplimiento de los requisitos establecidos para la adjudicación de las viviendas protegidas, así como de la gestión del procedimiento de adjudicación. i) Facilitar a las personas y entidades interesadas la información disponible en el Censo sobre la oferta y la demanda de vivienda protegida."
+            }
+          ]
+        },
+        {
+          "articulo": 19,
+          "titulo": "Gestión del Censo.",
+          "parrafos": [
+            {
+              "id": "33ee5757-461a-461e-be2d-9eb58051f3d5",
+              "texto": "1. La organización y funcionamiento del Censo se rige por lo dispuesto en el presente Decreto Foral y por las disposiciones que puedan dictarse para su desarrollo."
+            },
+            {
+              "id": "27610d60-dc35-4583-9c3e-cc1e5415dd54",
+              "texto": "2. La gestión del Censo de solicitantes de vivienda protegida se llevará a cabo a través de la sociedad pública instrumental que se determine."
+            },
+            {
+              "id": "b6adb2b1-c8f6-4544-a3dd-8da55065b884",
+              "texto": "3. Corresponde al Director General competente en materia de vivienda dictar los actos y resoluciones derivados de la gestión del Censo."
+            }
+          ]
+        },
+        {
+          "articulo": 20,
+          "titulo": "Publicación en el Tablón de Anuncios Electrónico.",
+          "parrafos": [
+            {
+              "id": "c3a10e2b-c174-4def-a81c-59d8b872a142",
+              "texto": "1. La publicación en el Tablón de Anuncios Electrónico, insertado en el Portal Web corporativo del Gobierno de Navarra, sustituirá a la notificación personal surtiendo sus mismos efectos, en todas las cuestiones de naturaleza administrativa relacionadas con el Censo de solicitantes, así como con la adjudicación de las viviendas protegidas, de acuerdo con lo dispuesto en el artículo 59.6.b) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común, y en el artículo 16.4.c) de la Ley Foral 11/2007, de 4 de abril, para la Implantación de la Administración Electrónica en la Administración de la Comunidad Foral de Navarra."
+            },
+            {
+              "id": "b8691628-beb8-4f6b-84cf-ceebe7d8d51d",
+              "texto": "2. No obstante lo dispuesto en el apartado anterior, se podrá acudir también a la notificación personal de los actos administrativos mediante el aviso a través de mensaje a teléfono móvil, llamada telefónica, correo electrónico u ordinario, así como a través de cualquier otro medio que permita poner en conocimiento de la persona interesada cualquier cuestión que le pueda afectar, todo ello de forma adicional y potestativa a la preceptiva publicación en el Tablón de Anuncios Electrónico."
+            },
+            {
+              "id": "90605ee5-cba7-4203-ba53-7151d087c7b9",
+              "texto": "3. Con la finalidad de facilitar el conocimiento por las personas interesadas de los actos que se publiquen en el Tablón de Anuncios Electrónico, se incluirá un enlace al mismo en el sitio web informativo en materia de vivienda previsto en el artículo 37 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            }
+          ]
+        },
+        {
+          "articulo": 21,
+          "titulo": "Protección de datos.",
+          "parrafos": [
+            {
+              "id": "b638d309-87b0-42fc-b741-67ef2e138446",
+              "texto": "1. Los datos de los ficheros, con carácter general, y en especial los relativos a las circunstancias personales, consideradas especialmente protegidas, únicamente pueden ser tratados en el ámbito restringido de inscripción en el Censo de solicitantes de vivienda protegida y de los correspondientes procesos de adjudicación de las viviendas, por parte de las administraciones y entidades, públicas o privadas, directamente implicadas y para el exclusivo cumplimiento de las finalidades indicadas en este Decreto Foral. En todo caso la utilización de datos del Censo se sujeta a lo establecido en este Decreto Foral y en la normativa sobre protección de datos de carácter personal."
+            },
+            {
+              "id": "353f7e7e-d021-4cca-8f5e-79e529a250f6",
+              "texto": "2. Todas las publicaciones que se realicen en el Tablón de Anuncios Electrónico deberán contener, como dato identificativo de las personas interesadas en los diferentes procedimientos que se tramiten, el nombre y apellidos de cuantas personas aparezcan como interesadas en el acto que se adopte, así como su Número de Identificación Fiscal (NIF). En el caso de solicitudes suscritas por más de una persona, las publicaciones que se realicen contendrán, como mínimo, los datos identificativos de la persona con la que se entenderán todas las cuestiones que se deriven de dicha solicitud, de acuerdo con lo dispuesto en el artículo 24 del presente Decreto Foral."
+            },
+            {
+              "id": "a737eda5-b3bf-47c9-a51b-7e1634d50c62",
+              "texto": "3. Siempre que la finalidad perseguida con el tratamiento de los datos lo permita, se aplicará el procedimiento de disociación, de forma que la información que se obtenga no pueda asociarse a persona identificable."
+            },
+            {
+              "id": "918f5893-7465-4525-80ea-f2342ea2362b",
+              "texto": "4. La publicación de los actos sólo afectará a aquellos datos que resulten necesarios e imprescindibles para alcanzar la finalidad que lo justifique."
+            }
+          ],
+          "seccion": "Sección 2.ª: Inscripción en el Censo de solicitantes de vivienda protegida"
+        },
+        {
+          "articulo": 22,
+          "titulo": "Modos de presentar la solicitud de inscripción en el Censo.",
+          "parrafos": [
+            {
+              "id": "58dd6e5e-9aa4-42d1-964b-4db89f46710a",
+              "texto": "1. Las personas interesadas en inscribirse en el Censo de solicitantes de vivienda protegida deberán presentar el modelo oficial de solicitud debidamente cumplimentado."
+            },
+            {
+              "id": "3cb29476-27f7-405b-97d5-99421b58538f",
+              "texto": "2. Asimismo, de acuerdo con lo dispuesto en la Ley Foral 11/2007, de 4 de abril, para la Implantación de la Administración Electrónica en la Administración de la Comunidad Foral de Navarra , la solicitud de inscripción en el Censo de solicitantes de vivienda protegida se podrá realizar telemáticamente. A estos efectos, se utilizarán los modelos normalizados disponibles en el sitio web informativo en materia de vivienda, al que se accede a través del Portal Web corporativo del Gobierno de Navarra en el dominio www.navarra.es, donde se permitirá cumplimentar la solicitud de inscripción, acomodándose a los formularios que se prevean. Para realizar esta inscripción se utilizarán las formas de acceso a la Administración Electrónica previstas en la Ley Foral 11/2007, de 4 de abril, para la Implantación de la Administración Electrónica en la Administración de la Comunidad Foral de Navarra ."
+            }
+          ]
+        },
+        {
+          "articulo": 23,
+          "titulo": "Contenido de la solicitud de inscripción.",
+          "parrafos": [
+            {
+              "id": "21a7029f-8550-4154-8416-6f0b5578cc1c",
+              "texto": "1. En la solicitud de inscripción en el Censo, las personas solicitantes incluirán obligatoriamente los siguientes datos: a) Declaración responsable de acuerdo con lo dispuesto en el artículo 25 de este Decreto Foral. b) La autorización al Departamento competente en materia de vivienda o a la sociedad instrumental gestora del Censo a que se refiere el apartado 3 de este artículo. c) Los que resulten necesarios para identificar a la persona solicitante, así como su domicilio. d) Régimen de acceso o uso de la vivienda a la que se desea optar, de acuerdo con las posibles opciones que se determinen por el Departamento competente en materia de vivienda. La redacción de esta letra corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"d) Régimen de acceso o uso de la vivienda a la que se desea optar, pudiendo elegir la persona solicitante acumulativamente entre vivienda protegida en régimen de propiedad y en régimen de arrendamiento, con y sin opción de compra.\". e) Tipo de vivienda protegida a la que se opta, pudiendo la persona solicitante elegir entre vivienda de protección oficial y/o vivienda de precio tasado, debiendo, en caso de optar por ambas, establecer su preferencia. f) Número de dormitorios de la vivienda a los que se desea optar, pudiendo la persona solicitante elegir entre una o dos de las opciones que se establezcan, debiendo, en caso de optar por dos, establecer su preferencia. La redacción de esta letra corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"f) Número de dormitorios de la vivienda a los que se desea optar, pudiendo la persona solicitante elegir entre una o dos opciones, debiendo, en caso de optar por dos, establecer su preferencia.\". g) Área geográfica o localidades donde interesa la adjudicación de la vivienda protegida. h) En el caso de que la persona solicitante optara por más de un tipo de vivienda y por más de una opción de número de dormitorios, deberá indicar a cual de ambas opciones desea dar prioridad. i) Si se opta a vivienda usada, terminada o nueva. A estos efectos, se entenderá por vivienda usada en propiedad aquella vivienda protegida adquirida por el Gobierno de Navarra o por la sociedad instrumental que determine, en virtud de lo dispuesto en los artículos 17.5 , 33 , 50 y 52 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, y que posteriormente se adjudique a quienes se encuentren inscritos en el Censo de solicitantes de vivienda protegida. Por otro lado, vivienda usada en alquiler es aquella que se encuentra adscrita a la Bolsa de alquiler, así como aquellas viviendas protegidas gestionadas por promotores, públicos o privados, sobre las que recaigan segundos o posteriores contratos de arrendamiento, siempre que no se trate de una prórroga del contrato de arrendamiento inicialmente pactado. La redacción de esta letra corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"i) Si la vivienda a la que se desea acceder puede ser usada y/o nueva. A estos efectos, se entenderá por vivienda usada en propiedad aquella vivienda protegida adquirida por el Gobierno de Navarra o por la sociedad instrumental que determine, en virtud de lo dispuesto en los artículos 17.5 , 33 , 50 y 52 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, y que posteriormente se adjudique a quienes se encuentren inscritos en el Censo de solicitantes de vivienda protegida. Por otro lado, vivienda usada en alquiler es aquella que se encuentra adscrita a la Bolsa de alquiler, así como aquellas viviendas protegidas gestionadas por promotores, públicos o privados, sobre las que recaigan segundos o posteriores contratos de arrendamiento, siempre que no se trate de una prórroga del contrato de arrendamiento inicialmente pactado\". j) Circunstancias puntuables según baremo. k) Número de teléfono, dirección postal, y, en su caso, dirección de correo electrónico a través de la cual el Departamento competente en materia de vivienda y la sociedad instrumental gestora del Censo se podrán relacionar con la persona solicitante, sin perjuicio de lo dispuesto en el artículo 20 de este Decreto Foral. l) Otros que pudieran ser necesarios."
+            },
+            {
+              "id": "17a01680-8c2a-43e6-8d28-36eea9b1e4ea",
+              "texto": "2. Una misma persona no podrá figurar como solicitante de vivienda en más de una solicitud de inscripción en el Censo. El incumplimiento de este requisito dará lugar a la exclusión de la solicitud anterior."
+            },
+            {
+              "id": "cd076449-3ac5-417c-981d-e091d34bae7d",
+              "texto": "3. Sin perjuicio de lo expuesto, la firma y presentación de la solicitud implicará con los efectos y garantías previstas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal , que los solicitantes y los otros miembros de la unidad familiar autorizan expresamente al Departamento competente en materia de vivienda y a la sociedad instrumental encargada de la gestión del Censo para: a) Solicitar, directa o indirectamente, a través de otros órganos, o entidades públicas la información de carácter registral, catastral, tributario, económico-laboral o patrimonial y cualquier otra que fuera necesaria para comprobar el cumplimiento por los solicitantes y por los miembros de sus unidades familiares, de los requisitos mínimos de acceso a la vivienda protegida y, en su caso, ayudas públicas, y de las circunstancias puntuables según baremo; contrastar los datos manifestados en la solicitud de inscripción; así como para revisar y actualizar las inscripciones. b) Facilitar los datos objeto de inscripción a los promotores de viviendas protegidas, a los efectos de dar cumplimiento a la finalidad del Censo de solicitantes señalada en el subapartado a) del apartado 2 del artículo 18 de este Decreto Foral. c) Publicar en el Tablón de Anuncios Electrónico sus nombres y apellidos y NIF, en caso de aparecer como interesados en los diferentes actos relacionados con la gestión del Censo de solicitantes."
+            }
+          ]
+        },
+        {
+          "articulo": 24,
+          "titulo": "Solicitudes de inscripción suscritas por más de una persona.",
+          "parrafos": [
+            {
+              "id": "98847bb9-e1f5-4a2b-b3dc-f628030a203b",
+              "texto": "1. En todas las solicitudes de inscripción en las que aparezcan como solicitantes de vivienda protegida más de una persona, figurará en primer lugar la persona con la que se entenderán todas las actuaciones que se deriven de dicha solicitud."
+            },
+            {
+              "id": "dcbdaa54-c4f0-43cb-95fb-add07ffd332e",
+              "texto": "2. Todas las personas que suscriban una misma solicitud de vivienda protegida que resulten adjudicatarias de la misma deberán aceptar ser cotitulares registrales de la misma a partes iguales, no permitiéndose, en ningún caso, renuncias de un titular en favor de otro entre la adjudicación de la vivienda y su escrituración."
+            },
+            {
+              "id": "1dc88014-8629-4f80-ac79-b1bef5dfaa6f",
+              "texto": "3. La renuncia a una vivienda protegida, la baja en el Censo y las modificaciones o actualizaciones que se realicen durante el periodo en que estuviera vigente la inscripción de una solicitud, podrán ser efectuadas indistintamente por cualquiera de las personas que hayan suscrito la misma. Dicha actuación producirá efectos para todos los solicitantes que figuren inscritos en la misma solicitud."
+            }
+          ]
+        },
+        {
+          "articulo": 25,
+          "titulo": "Declaración responsable de la persona solicitante de vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "b3ff4fdb-bf55-4d92-894b-a149a7eb5eef",
+              "texto": "1. Las personas solicitantes de vivienda protegida deberán cumplimentar, en el momento de formalizar la inscripción en el Censo, una declaración responsable de veracidad de los datos indicados en su solicitud, así como del cumplimiento de los requisitos mínimos de acceso a vivienda protegida y de las circunstancias alegadas que dan derecho a la obtención de puntuación en el baremo de acceso correspondiente."
+            },
+            {
+              "id": "5aabd55c-bfaa-4e1b-b8b4-0661782f8a21",
+              "texto": "2. A los efectos del presente Decreto Foral, por declaración responsable se entiende el documento suscrito por la persona solicitante de vivienda protegida en el que declara, bajo su responsabilidad, que cumple con los requisitos de acceso a vivienda protegida establecidos en la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra , y demás normativa que resulte de aplicación, que los datos aportados son veraces, que dispone de la documentación que así lo acredita y que se compromete a mantener actualizados la totalidad de los datos y declaraciones contenidos en su solicitud durante la vigencia de la misma."
+            },
+            {
+              "id": "42215d89-bc26-4df2-a5c7-edb3999fc486",
+              "texto": "3. La declaración responsable a que se refiere el presente artículo, vendrá contenida en la solicitud de inscripción en el Censo de solicitantes de vivienda protegida, debiendo sujetarse al modelo oficial que se establezca."
+            }
+          ]
+        },
+        {
+          "articulo": 26,
+          "titulo": "Datos de la solicitud recabados de oficio.",
+          "parrafos": [
+            {
+              "id": "ab3b9542-d41c-451c-a2ea-886f1d0a5541",
+              "texto": "1. El Departamento competente en materia de vivienda y la sociedad instrumental gestora del Censo podrán recabar de otros órganos, o entidades públicas la información de carácter registral, catastral, tributario, económico-laboral o patrimonial y cualquier otra que fuera necesaria para comprobar el cumplimiento por las personas solicitantes de los requisitos mínimos de acceso a la vivienda protegida y de las circunstancias puntuables según baremo. No obstante lo anterior, el cumplimiento de los requisitos mínimos de acceso y las circunstancias puntuables según baremo deberán ser acreditados por las personas solicitantes, cuando así lo requiera el Departamento competente en materia de vivienda o la sociedad instrumental gestora del Censo."
+            },
+            {
+              "id": "4fe2f690-74ec-4c4a-ab3a-c03f7ba4af75",
+              "texto": "2. Los datos recibidos de las Administraciones públicas o de sus órganos o entidades se incluirán en la solicitud de inscripción a los efectos de su cumplimentación formal y sin perjuicio de la exactitud de los mismos."
+            },
+            {
+              "id": "61872bf6-0e12-446c-8378-be66ab71c541",
+              "texto": "3. Si hubiera disconformidad entre los datos aportados por el solicitante y los recabados de oficio por la sociedad instrumental gestora del Censo, se advertirá de tal circunstancia y si dicha disconformidad no supusiera un incumplimiento del requisito de capacidad económica para el acceso a una vivienda protegida establecido en el artículo 7 de este Decreto Foral, la solicitud quedará inscrita con los datos indicados por el solicitante, sin perjuicio de que se le requiera para que regularice la discordancia detectada. No obstante lo anterior, si la disconformidad entre los datos recabados de oficio y los aportados por el solicitante supusiera el incumplimiento del mencionado requisito de capacidad económica, la solicitud quedará pendiente de inscripción y se requerirá al solicitante para que regularice su situación tributaria."
+            },
+            {
+              "id": "1b7b6f24-c630-4657-a93e-b090a8bf0d56",
+              "texto": "4. En el caso de que Hacienda Tributaria de Navarra no dispusiera de los datos relativos a la capacidad económica de cualquiera de los miembros de una solicitud de vivienda, los solicitantes indicarán bajo su responsabilidad los ingresos que hubieran obtenido. En tal caso la solicitud quedará en estado inscrito debiendo acreditarse, en el momento en que se adjudique una vivienda y de la forma prevista en este Decreto Foral, los ingresos obtenidos."
+            },
+            {
+              "id": "1ff09ff9-6d15-4143-b586-0f7f238c0e91",
+              "texto": "5. Si de los datos recabados de oficio se detecta que el solicitante incumple con alguno de los restantes requisitos generales de acceso a vivienda protegida o que no es cierta alguna de las circunstancias indicadas y puntuables según baremo, la solicitud quedará inscrita con los datos aportados por el solicitante, siempre y cuando éste rellene la declaración responsable prevista en el artículo anterior, sin perjuicio de que en el momento de resultar adjudicatario de una vivienda se compruebe la veracidad de los datos indicados."
+            }
+          ]
+        },
+        {
+          "articulo": 27,
+          "titulo": "Práctica de la inscripción.",
+          "parrafos": [
+            {
+              "id": "88380ab9-4d28-4bb7-ad08-3ca1bd816aa6",
+              "texto": "1. Una vez presentada la solicitud en el Censo de solicitantes de vivienda protegida se extenderá el correspondiente recibo de la inscripción en el mismo momento de realizarse la misma. Dicho recibo de inscripción o su denegación podrán ser objeto de recurso de alzada."
+            },
+            {
+              "id": "8918a369-42f3-44fc-a03d-f4aba19c58ca",
+              "texto": "2. En el supuesto en que se constate que el solicitante no cumple con los requisitos mínimos de acceso, o que ha procedido a ocultar datos, a suscribir declaraciones falsas o a falsear algún documento, se procederá a denegar la inscripción en el Censo, sin perjuicio de otras consecuencias legalmente previstas."
+            },
+            {
+              "id": "57954c91-91ff-4b10-af67-40f165f75f84",
+              "texto": "3. Cuando la solicitud no reúna las circunstancias requeridas en la normativa sectorial correspondiente, se requerirá al solicitante para que en el plazo de 10 días hábiles subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se procederá al archivo de la solicitud incompleta, sin perjuicio de la posibilidad de volver a cursar nueva solicitud."
+            },
+            {
+              "id": "f9e6b706-58ac-498a-9fcc-0934f16e9b35",
+              "texto": "4. En el recibo de inscripción que se extienda, se hará constar la siguiente información: a) Fecha en que concluye la vigencia de la inscripción. b) El conjunto de datos personales indicados para realizar la inscripción. c) Las preferencias por las que se haya optado. d) Resumen de la puntuación obtenida en el baremo de acceso correspondiente."
+            },
+            {
+              "id": "9b1e3e7d-5555-44e8-bd39-0e78573f3ed4",
+              "texto": "5. Las personas solicitantes podrán conocer en cualquier momento todos los datos incluidos en su inscripción mediante consulta informática en el sitio web informativo en materia de vivienda. Para realizar esta consulta el solicitante deberá disponer de un certificado digital reconocido por la Administración de la Comunidad Foral de Navarra. Asimismo, esta información podrá ser obtenida en la oficina que al efecto habilite la sociedad instrumental gestora del Censo."
+            }
+          ]
+        },
+        {
+          "articulo": 28,
+          "titulo": "Duración de la inscripción.",
+          "parrafos": [
+            {
+              "id": "647a98c7-8fc7-4150-9ea2-411abdef4603",
+              "texto": "1. La inscripción en el Censo de solicitantes tendrá una duración máxima de dos años contados desde la fecha en que se extienda el recibo de la inscripción. Transcurrido dicho plazo sin renovar la inscripción, o sin modificar a petición del solicitante algún dato de la misma, la inscripción caducará y la sociedad instrumental gestora procederá a cursar la baja automática de la solicitud en el Censo."
+            },
+            {
+              "id": "bb8c9db5-c61d-4b01-863a-79639a5e3efb",
+              "texto": "2. Los interesados podrán renovar la inscripción sucesivamente por iguales periodos de dos años, si cumplen los requisitos exigidos en el momento de la renovación, para lo cual deberán comunicar mediante solicitud firmada por todos los solicitantes, la voluntad de renovarla. La solicitud de renovación se resolverá en los términos del artículo anterior y se renovará por un periodo igual de dos años contados desde la fecha en que se solicite dicha renovación."
+            },
+            {
+              "id": "58285502-296a-461d-a009-88425cbcee09",
+              "texto": "3. Los solicitantes de la inscripción caducada no podrán acceder al Censo en el plazo de 6 meses contados a partir del día siguiente a la fecha de caducidad de la inscripción."
+            }
+          ],
+          "seccion": "Sección 3.ª: Modificaciones, actualizaciones y exclusiones"
+        },
+        {
+          "articulo": 29,
+          "titulo": "Modificaciones de los datos incluidos en la solicitud de inscripción.",
+          "parrafos": [
+            {
+              "id": "9b6cedc4-84a7-4e52-b74f-26dbc369c4fa",
+              "texto": "1. La inscripción de una persona solicitante ya inscrita previamente como miembro de otra solicitud, o la inscripción de una nueva persona como solicitante en una solicitud ya inscrita, requerirá previamente la anulación de la anterior inscripción."
+            },
+            {
+              "id": "ee5c1f4d-2849-41c8-92eb-141888e94f61",
+              "texto": "2. Para la realización de alguna modificación de las personas que constan como solicitantes de vivienda, se seguirá el procedimiento establecido en el artículo 27 de este Decreto Foral."
+            },
+            {
+              "id": "bb1fdb1a-c7e8-4314-a483-93db891537ce",
+              "texto": "3. Las personas solicitantes podrán modificar, en cualquier momento y cuantas veces deseen, las preferencias que hubieran mostrado al realizar su solicitud de inscripción en el Censo. Sin embargo, para la adjudicación de las viviendas correspondientes a cada procedimiento concreto, únicamente se tendrán en cuenta las preferencias que consten en el Censo en el momento de iniciarse el correspondiente procedimiento de adjudicación, salvo lo previsto en el artículo 38 de este Decreto Foral. Cualquiera de los datos que se modifiquen durante el periodo habilitado para la elección de promociones, únicamente serán tenidos en cuenta para el siguiente procedimiento de adjudicación, aunque la modificación se refiera a hechos que ya se producían con anterioridad."
+            }
+          ]
+        },
+        {
+          "articulo": 30,
+          "titulo": "Actualización y revisión de datos.",
+          "parrafos": [
+            {
+              "id": "8bc7bfa8-b5ec-44db-a4c7-064417981ea2",
+              "texto": "1. En tanto se mantenga vigente la inscripción, las personas solicitantes censadas deberán comunicar a la sociedad instrumental gestora del Censo todos los datos relativos a las variaciones de su situación personal, familiar y económica que afecten a los requisitos y a la baremación de las solicitudes, en un plazo de dos meses contados desde que tales variaciones se produzcan. El incumplimiento de esta obligación será causa de exclusión cuando la falta de comunicación conlleve un beneficio en la baremación para el solicitante."
+            },
+            {
+              "id": "17d065f3-8360-4571-9251-9aef9a9cb709",
+              "texto": "2. Para que la actualización de datos correspondiente sea tenida en cuenta en cada uno de los procedimientos de adjudicación que se celebren, esta actualización deberá realizarse, en todo caso, con anterioridad a la fecha en que se inicie el correspondiente procedimiento de adjudicación."
+            },
+            {
+              "id": "380e888d-17d0-47cc-83d9-f24eacaad8bf",
+              "texto": "3. La actualización y revisión de los datos que figuren en el Censo es responsabilidad única y exclusiva de los solicitantes, sin perjuicio de la actualización y revisión de datos que, en todo momento, puede realizar el Departamento competente en materia de vivienda o la sociedad instrumental gestora del Censo."
+            }
+          ]
+        },
+        {
+          "articulo": 31,
+          "titulo": "Comprobación de los datos incluidos en la solicitud.",
+          "parrafos": [
+            {
+              "id": "48afabfe-ee8e-44b7-8ce0-b99c65ecb26b",
+              "texto": "1. Sin perjuicio de lo expuesto en el artículo anterior, el Departamento competente en materia de vivienda y la sociedad instrumental encargada de la gestión del Censo podrán, en cualquier momento, realizar comprobaciones de oficio de los datos consignados en el Censo y recabar de otras Administraciones Públicas y de sus órganos o entidades la información necesaria sobre los datos incluidos en la solicitud con trascendencia para la adjudicación de la vivienda y concesión de las ayudas a fin de revisar las inscripciones, y proceder a las exclusiones correspondientes."
+            },
+            {
+              "id": "f49ff7a7-08aa-4e5e-be4f-bbc5918fcaf3",
+              "texto": "2. La ocultación de datos o la suscripción de declaraciones falsas en la solicitud de inscripción, así como el falseamiento de documentos implicará, en todo caso, la exclusión del Censo de la solicitud, sin perjuicio de las responsabilidades que, en su caso, procedan."
+            }
+          ]
+        },
+        {
+          "articulo": 32,
+          "titulo": "Exclusión del Censo.",
+          "parrafos": [
+            {
+              "id": "21ba615c-3e1f-47f1-8af8-166feaa977f1",
+              "texto": "1. La persona inscrita podrá solicitar en cualquier momento la baja voluntaria de la inscripción en el Censo de solicitantes a través de cualquier medio que permita tener constancia inequívoca de dicha baja. Esta baja voluntaria no impedirá la posterior inscripción en el Censo de solicitantes ni tendrá consecuencia alguna para la persona solicitante que la haya solicitado, más allá de la imposibilidad de participar en los procedimientos de adjudicación que se celebren mientras la solicitud se encuentre en estado de baja."
+            },
+            {
+              "id": "791e51d1-5206-48dc-845c-6ce61d8f229e",
+              "texto": "2. Se procederá a la exclusión de la persona solicitante, cuando, sin perjuicio de las causas previstas en el artículo 30 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, concurra alguna de estas causas: a) La renuncia expresa o tácita hasta en dos ocasiones a una vivienda adjudicada provisionalmente y que se ajuste a las preferencias establecidas por la persona solicitante. A estos efectos, se entenderá que la renuncia es tácita cuando la Administración o la sociedad instrumental gestora del Censo hayan cumplido con su obligación de comunicar dicha adjudicación provisional por los medios previstos en este Decreto Foral, y no haya sido posible localizar o establecer comunicación con el adjudicatario. b) La renuncia expresa o tácita en una ocasión a una vivienda protegida cuya firma del contrato de compraventa o arrendamiento ha sido autorizada, o cuando el correspondiente contrato ha sido visado por el Departamento competente en materia de vivienda. A estos efectos, se entenderá que la renuncia es tácita cuando la empresa promotora de la vivienda, la Administración o la sociedad instrumental gestora del Censo hayan cumplido con su obligación de comunicar dicha autorización por los medios previstos, y no haya sido posible localizar o establecer comunicación con el adjudicatario. c) No aportar la documentación en el plazo indicado cuando la persona solicitante sea requerida al efecto por la Administración o por la sociedad instrumental gestora del Censo. d) El incumplimiento de las obligaciones derivadas de la inscripción en el Censo de solicitantes de vivienda protegida. e) Haber sido desalojado forzosamente de una vivienda protegida por causa imputable al interesado en los dos últimos años. f) La solicitud de cancelación de los datos de carácter personal que figuren en el Censo de solicitantes de vivienda protegida."
+            },
+            {
+              "id": "691796b5-908f-4e9f-b0f8-cac93a512963",
+              "texto": "3. El número de viviendas a las que haya renunciado un solicitante se mantendrá aun en el supuesto de que dicho solicitante se haya dado de baja en el Censo, si posteriormente vuelve a darse de alta."
+            },
+            {
+              "id": "daa46f1e-e279-4b3e-b082-e8bc62a50dc4",
+              "texto": "4. A los efectos de lo dispuesto en el artículo 30.1.c) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, se considerarán como causas que justifican una renuncia, única y exclusivamente, las siguientes: a) Las personas a las que les sea ofrecida una vivienda cuyo precio, incluidos sus anejos, sin IVA, sea un múltiplo superior a diez veces los ingresos que se tuvieron en cuenta en la fecha en que se adjudicó la vivienda. b) La renuncia a un contrato visado de compraventa, adjudicación o arrendamiento de vivienda protegida, cuando el plazo establecido para la entrega de la vivienda se hubiera visto superado por causa no imputable al adjudicatario, adquirente o arrendatario de la vivienda protegida. c) La renuncia al ofrecimiento de una vivienda vacante cuyas características no se correspondan con las preferencias mostradas en la solicitud de inscripción. d) La renuncia a una vivienda protegida en régimen de arrendamiento cuando las cantidades a abonar en concepto de renta mensual, descontada la subvención a la que se pudiera tener derecho, sean superiores al 35% de los ingresos anuales del solicitante. Para el cálculo de este porcentaje se tomará como referencia la parte general de la base imponible de la declaración del Impuesto sobre la Renta de las Personas Físicas más las rentas exentas obtenidas que correspondan."
+            }
+          ]
+        },
+        {
+          "articulo": 33,
+          "titulo": "Duración de la exclusión del Censo.",
+          "parrafos": [
+            {
+              "id": "351f8b73-bf0d-4e62-8100-4640e68b1588",
+              "texto": "1. La duración de las exclusiones del Censo a las que se refieren los subapartados c), e) y h) del apartado 1 del artículo 30 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, así como los supuestos contemplados en los subapartados a), b) y e) del apartado 2 del artículo anterior será por 1 año."
+            },
+            {
+              "id": "763ab9ee-b595-44b3-a50a-36823d6975f0",
+              "texto": "2. La duración de las exclusiones del Censo a las que se refieren los subapartados f) e i) del apartado 1 del artículo 30 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, así como el supuesto contemplado en el subapartado d) del apartado 2 del artículo anterior, será por 6 meses."
+            },
+            {
+              "id": "d3287468-8712-4a52-8b8d-aed120a3358c",
+              "texto": "3. La duración de la exclusión del Censo a la que se refiere el subapartado d) del apartado 1 del artículo 30 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, así como el supuesto contemplado en el subapartado c) del apartado 2 del artículo anterior, será por 3 meses."
+            },
+            {
+              "id": "3f00050a-86f9-411b-90f4-3b37e2ab1198",
+              "texto": "4. El periodo de duración de exclusión del Censo se computará desde que la Resolución que la declare ponga fin a la vía administrativa. No obstante lo anterior, al iniciarse un procedimiento de exclusión se podrá acordar la suspensión temporal de la inscripción de una solicitud en el Censo, durante el tiempo que mediara entre la iniciación del procedimiento y la Resolución que ponga fin al mismo. En tal caso, el plazo que trascurriera entre una y otra fecha computará a los efectos de la duración del plazo de exclusión que, en su caso, se imponga. La redacción de este apartado corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"4. El periodo de duración de exclusión del Censo se computará desde que la Resolución que la declare ponga fin a la vía administrativa. No obstante lo anterior, al iniciarse un procedimiento de exclusión por cualquiera de las causas previstas en el apartado 1 de este artículo, se podrá acordar la suspensión temporal de la inscripción de la inscripción de una solicitud en el Censo durante el tiempo que mediara entre la iniciación del procedimiento y la Resolución que ponga fin al mismo. En tal caso, el plazo que transcurriera entre una y otra fecha computará a los efectos de la duración del plazo de exclusión que, en su caso, se imponga.\""
+            },
+            {
+              "id": "50ff6398-fe3d-461d-aa2e-699e7dff3aee",
+              "texto": "5. En todos los casos, la exclusión afectará a todas las personas solicitantes que figuren inscritas en la misma solicitud, siendo solidaria la responsabilidad en que se pudiera incurrir por cada una de las actuaciones u omisiones relacionadas con las solicitudes inscritas o a inscribir en el Censo."
+            },
+            {
+              "id": "4fd51b02-fdd3-4c4b-831e-ff3c2ab3db64",
+              "texto": "6. Una vez transcurrido el plazo de exclusión correspondiente, el solicitante podrá volver a dar de alta su inscripción en el Censo."
+            }
+          ]
+        },
+        {
+          "articulo": 34,
+          "titulo": "Procedimiento de exclusión del Censo.",
+          "parrafos": [
+            {
+              "id": "3b46cd13-589f-4d8e-b845-9817a49badcd",
+              "texto": "1. Con la periodicidad que se determine se publicará en el Tablón de Anuncios Electrónico una lista con las solicitudes excluidas. En el listado que se publique se harán constar los siguientes datos: a) Nombre, apellidos y Número de Identificación Fiscal (NIF) de la persona que figure como solicitante. En el caso de solicitudes suscritas por más de una persona, se estará a lo dispuesto en el artículo 24 de este Decreto Foral. b) Remisión al precepto legal o reglamentario que motiva la exclusión. c) Plazo de exclusión propuesto. d) Indicación de la posibilidad de presentar alegaciones. A tal efecto se abrirá un plazo de 10 días hábiles. e) En su caso, si se ha acordado la suspensión temporal prevista en el apartado 4 del artículo anterior."
+            },
+            {
+              "id": "2c11f8c5-4e0a-41b4-b030-9a9f31c423b9",
+              "texto": "2. Las alegaciones que se presenten serán resueltas por el Director General competente en materia de vivienda, cuya Resolución pondrá fin a la vía administrativa."
+            },
+            {
+              "id": "bc7a1b22-9d9b-41d7-9e7b-3f4d270a42f0",
+              "texto": "3. En el caso de no presentarse alegaciones, la Resolución de iniciación será considerada Resolución definitiva de exclusión."
+            }
+          ],
+          "seccion": "Sección 4.ª: Procedimiento de adjudicación de las viviendas protegidas"
+        },
+        {
+          "articulo": 35,
+          "titulo": "Difusión de los procedimientos de adjudicación.",
+          "parrafos": [
+            {
+              "id": "f051ecf2-d56f-4b0e-a210-878a6131d9ef",
+              "texto": "1. Los procedimientos de adjudicación de viviendas protegidas que se celebren serán objeto de difusión por la Administración o por la sociedad instrumental gestora del Censo. Esta difusión podrá realizarse mediante anuncios recordatorios en prensa o mediante cualquiera de las formas previstas en el artículo 20 de este Decreto Foral."
+            },
+            {
+              "id": "eacd4e3a-c07c-4762-b122-4bec4906513c",
+              "texto": "2. La difusión de cada uno de los procedimientos de adjudicación prevista en el apartado anterior, tendrá como objetivos principales los siguientes: a) Recordar a las personas inscritas en el Censo su obligación de actualizar los datos contenidos en su inscripción, ya se refieran al cumplimiento de los requisitos generales de acceso a vivienda protegida, a las circunstancias puntuables según el baremo correspondiente o a sus preferencias de vivienda. b) En el caso de que se hayan realizado de oficio actualizaciones de las inscripciones por parte de la sociedad instrumental gestora del Censo, se difundirá también tal circunstancia con la finalidad de que las personas solicitantes comprueben que las preferencias mostradas en el momento de realizar su solicitud inscripción en el Censo, se corresponden con el cumplimiento de los requisitos generales vigentes en el momento de celebrarse el procedimiento de adjudicación correspondiente. c) Informar a las personas solicitantes de la posibilidad de comprobar el estado de su inscripción."
+            },
+            {
+              "id": "dd1ae8f8-11d6-4045-ac05-9521675b5696",
+              "texto": "3. En todo caso, para el cumplimiento de los objetivos enumerados en el apartado anterior, se utilizarán preferentemente de los medios disponibles a tal efecto en el sitio web informativo en materia de vivienda."
+            }
+          ]
+        },
+        {
+          "articulo": 36,
+          "titulo": "Inicio del procedimiento de adjudicación.",
+          "parrafos": [
+            {
+              "id": "e68d10e1-68a8-4805-b56a-8a2ecf7c442f",
+              "texto": "1. El procedimiento de adjudicación de viviendas protegidas se inicia en las fechas establecidas por el artículo 31 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            },
+            {
+              "id": "db9d060b-9a50-4c98-b26a-13961c71ba6d",
+              "texto": "2. Será obligatoria la inclusión en el procedimiento de adjudicación de la totalidad de las viviendas incluidas en promociones calificadas provisionalmente en régimen de propiedad en tales fechas, así como de aquellas incluidas en promociones que tengan solicitada la calificación definitiva en régimen de arrendamiento, con y sin opción de compra, y la documentación completa que permita su publicación, hasta el día 15 del mes inmediatamente anterior al que se inicie el correspondiente procedimiento de adjudicación. La redacción de este apartado corresponde a la establecida por Decreto Foral 61/2013, de 18 de septiembre, por el que se regulan las actuaciones protegibles en materia de vivienda. La redacción original era la siguiente: \"2. Será obligatoria la inclusión en el procedimiento de adjudicación de la totalidad de las viviendas incluidas en promociones calificadas provisionalmente en régimen de propiedad en tales fechas, así como de aquellas incluidas en promociones que tengan solicitada la calificación definitiva en régimen de arrendamiento, con y sin opción de compra.\""
+            },
+            {
+              "id": "fed18efa-1011-4b91-9a79-955a35e9b6a0",
+              "texto": "3. Mediante anuncio inserto en el sitio web informativo en materia de vivienda se incluirá la información relativa a cada una de las promociones que se vayan a adjudicar. Como mínimo se publicarán los siguientes extremos: a) Identificación del promotor de las viviendas, así como el número de expediente al que se encuentran acogidas. b) Ubicación de las viviendas a adjudicar y número de las mismas. c) En su caso, reservas habilitadas en la promoción, con indicación expresa del número de viviendas correspondiente a cada reserva. d) Tipo de viviendas a adjudicar. d) Número de dormitorios que contienen las viviendas. e) Régimen de acceso o uso de las viviendas. f) Fecha prevista para la entrega de las viviendas."
+            }
+          ]
+        },
+        {
+          "articulo": 37,
+          "titulo": "Participación en el procedimiento de adjudicación.",
+          "parrafos": [
+            {
+              "id": "ac3d612e-807a-411f-81a3-cd1ff4892d3d",
+              "texto": "1. Tendrán derecho a participar en el procedimiento de adjudicación de viviendas protegidas, aquellas personas que se encuentren debidamente inscritas en el Censo de solicitantes a las 00:00 horas del día en que se inicie el procedimiento de adjudicación de las viviendas y que hayan optado, previamente a la hora señalada, por el régimen de acceso o uso y el número de dormitorios de las viviendas que se van a adjudicar."
+            },
+            {
+              "id": "0abb68d1-7dc6-4c2f-b3d7-4a8eb6cde9e0",
+              "texto": "2. No podrán participar en el procedimiento de adjudicación ni las personas que se encuentren excluidas del Censo, ni aquellas personas que hayan resultado adjudicatarias provisionalmente de una vivienda protegida en un procedimiento de adjudicación anterior, salvo que concurra alguna de las excepciones previstas en el artículo 39 de este Decreto Foral."
+            }
+          ]
+        },
+        {
+          "articulo": 38,
+          "titulo": "Elección de promoción.",
+          "parrafos": [
+            {
+              "id": "53e76920-c490-41ea-af6a-12979ceea2b4",
+              "texto": "1. Se podrá habilitar un sistema para que las personas solicitantes que, de acuerdo con lo dispuesto en el artículo anterior, tuvieran derecho a participar en un procedimiento de adjudicación, puedan elegir la promoción o promociones concretas a las que desean optar. Para el ejercicio de esta opción se concederá un plazo mínimo de 7 días naturales contados desde la fecha en que se hubiera iniciado el correspondiente procedimiento de adjudicación."
+            },
+            {
+              "id": "799a1faa-197d-4615-a866-3f861d1fb57d",
+              "texto": "2. En el caso de habilitarse el citado sistema se estará a lo dispuesto en este apartado: a) Si un solicitante opta por más de una promoción concreta deberá indicar el orden de preferencia que otorga a cada una de las promociones seleccionadas. b) Cuando un solicitante elija promociones en las que se contengan viviendas con distinto número de dormitorios, se deberá indicar si se da mayor prioridad a una vivienda con el número de dormitorios elegido en primer lugar o si, por el contrario, se desea priorizar la preferencia que se ha mostrado dentro de las promociones que se van a adjudicar. c) La elección de una o varias promociones concretas supondrá la anulación del resto de las preferencias que la persona solicitante hubiera mostrado con anterioridad, salvo la relativa al número de dormitorios y el régimen de uso al que se hubiera optado. No obstante lo anterior, si la persona solicitante que hubiera mostrado preferencia por alguna promoción no resultara adjudicataria inicial de ninguna vivienda, las preferencias mostradas con anterioridad a su elección de promoción concreta recuperarán su vigencia para el siguiente procedimiento de adjudicación. d) En el caso de que la persona solicitante no hubiera mostrado preferencia por ninguna promoción en concreto, se entenderá que opta a todas las promociones incluidas en el correspondiente procedimiento de adjudicación, siempre y cuando estas promociones se adecuen a las preferencias que previamente hubiera señalado y se cumpla con los requisitos de acceso establecidos para el tipo vivienda del que se trate. e) Durante el plazo establecido para la elección de promoción, las personas solicitantes podrán suspender temporalmente su inscripción en el Censo para cada procedimiento concreto de adjudicación que se celebre. En este caso, una vez celebrado el correspondiente procedimiento de adjudicación, la solicitud de inscripción recobrará vigencia de forma automática con los datos que constaran con anterioridad, salvo indicación en contrario de la persona solicitante. La solicitud de suspensión temporal únicamente se podrá realizar durante el plazo que se habilite para la elección de promoción. f) Asimismo, las modificaciones que se realicen durante dicho plazo sobre el resto datos que figuraran en el Censo el día anterior a la fecha en que se inicie el correspondiente procedimiento de adjudicación, únicamente se tendrán en cuenta para el siguiente procedimiento de adjudicación, aunque la modificación se refiera a hechos producidos con anterioridad a dicha fecha."
+            },
+            {
+              "id": "64b2ef54-021a-426b-b480-28cd6b2a0a23",
+              "texto": "3. Los promotores de viviendas protegidas incluidas en cada uno de los procedimientos de adjudicación que se celebren, deberán facilitar a las personas interesadas en las mismas la información necesaria para realizar la elección de promoción o promociones prevista en este artículo."
+            }
+          ]
+        },
+        {
+          "articulo": 39,
+          "titulo": "Condición de adjudicatario inicial de una vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "2d76bc6a-743e-4629-b930-266a2457e185",
+              "texto": "1. Con los solicitantes que, de acuerdo con lo dispuesto en el artículo 37 de este Decreto Foral, tengan derecho a participar en el procedimiento de adjudicación se elaborará el listado de personas adjudicatarias inicialmente de vivienda protegida mediante la aplicación del correspondiente baremo. A tal efecto, únicamente se tendrán en cuenta los datos que figuren en el Censo el día anterior a la fecha en que se inicie el correspondiente procedimiento de adjudicación, salvo lo dispuesto en el artículo anterior."
+            },
+            {
+              "id": "a27e3cec-a119-4b84-8ba3-119f43547bd5",
+              "texto": "2. Las personas que compongan el listado de personas adjudicatarias inicialmente de vivienda serán ordenadas en función de la reserva o reservas a las que tengan derecho a acceder, las preferencias que hubieran mostrado, el tramo de renta en que se encuadre cada solicitud en el caso de las reservas en las que tal distribución por tramos de renta sea obligatoria, debiendo aparecer todas la personas ordenadas según la puntuación obtenida por la aplicación del correspondiente baremo."
+            },
+            {
+              "id": "24ebefb1-c9e6-471b-ae56-66aa9d68c073",
+              "texto": "3. Asimismo, a los efectos de lo dispuesto en el apartado anterior, se diferenciará entre las personas solicitantes que hayan optado por el acceso a vivienda protegida en régimen de propiedad, de arrendamiento o de arrendamiento con opción de compra, no pudiendo un mismo solicitante resultar adjudicatario inicial de más de una vivienda en el mismo régimen de acceso o uso dentro de un mismo procedimiento de adjudicación."
+            },
+            {
+              "id": "dc606d8a-a8c8-4287-b45b-e6b58af06e14",
+              "texto": "4. No obstante lo establecido en el apartado anterior, la condición de adjudicatario inicial de una vivienda en régimen de propiedad impedirá la participación en siguientes procedimientos de adjudicación de viviendas protegidas en régimen de arrendamiento con opción de compra y viceversa."
+            },
+            {
+              "id": "8d6628eb-3d73-4125-bb1b-006398af1d1e",
+              "texto": "5. La condición de adjudicatario inicial de una vivienda no genera derecho alguno sobre ninguna vivienda en concreto."
+            },
+            {
+              "id": "0ac28d17-373b-43ed-adb2-5138486d7df3",
+              "texto": "6. El listado de personas adjudicatarias inicialmente de vivienda protegida se publicará obligatoriamente en el Tablón de Anuncios Electrónico a que se refiere el artículo 20 de este Decreto Foral."
+            }
+          ]
+        },
+        {
+          "articulo": 40,
+          "titulo": "Distribución de las viviendas entre las personas que resulten adjudicatarias inicialmente de una vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "5da14b02-29fd-4e4e-b988-7d54c01531ab",
+              "texto": "1. La distribución de las viviendas entre las personas que hayan resultado adjudicatarias inicialmente de vivienda protegida supondrá, únicamente, con respecto a cada una de dichas personas, la determinación de la promoción concreta y el número de dormitorios de la vivienda a adjudicar."
+            },
+            {
+              "id": "0c0f91fb-1e96-41a6-a38d-e2ad12c9224a",
+              "texto": "2. La adjudicación de las viviendas protegidas se iniciará siguiendo el siguiente orden de prelación entre las reservas legalmente establecidas: a) Personas con discapacidad motriz grave. b) Familia numerosa. c) Personas con un grado de discapacidad reconocido igual o superior al del 65%. d) Personas víctimas de violencia de género. e) Víctimas de terrorismo. f) En su caso empadronados con residencia efectiva ininterrumpida en el municipio de ubicación de la promoción con al menos dos años de antigüedad, distribuyéndose también dentro de esta reserva las viviendas por tramos de renta. g) Empadronados en cualquier municipio de Navarra, distribuyéndose también dentro de esta reserva las viviendas por tramos de renta."
+            },
+            {
+              "id": "3b8ee1b5-158d-46c5-8470-ec606677d4f3",
+              "texto": "3. Cuando, en aplicación de lo dispuesto en el apartado 3 del artículo 31 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, una vivienda acrezca la reserva de empadronados en cualquier municipio de Navarra o, en su caso, la de empadronados en el municipio de ubicación de la promoción, dicha vivienda se adjudicará entre las personas que se encuentren en el tramo de renta inferior, si se trata de una vivienda de protección oficial, o entre quienes se encuentren en el tramo de renta superior, si se trata de una vivienda de precio tasado."
+            },
+            {
+              "id": "e224ec03-1402-41f9-a61c-91597f496892",
+              "texto": "4. En la adjudicación inicial de las viviendas se tendrá en cuenta lo dispuesto en el apartado 6 del artículo 31 de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra, siempre y cuando los solicitantes que tuvieran derecho preferente a una vivienda con una superficie útil mayor a 90 metros cuadrados hubieran mostrado preferencia por una vivienda protegida de 3 ó 4 dormitorios."
+            },
+            {
+              "id": "7ad08e0b-335e-4c17-90d6-e4f9e3b2f9f2",
+              "texto": "5. La adjudicación de las viviendas protegidas se ajustará a las preferencias y priorización de las mismas que hubieran realizado sus solicitantes, no siendo posible la adjudicación de una vivienda protegida de una promoción o con unas características por las que no se hubiera mostrado preferencia previamente."
+            },
+            {
+              "id": "a936f6d0-8fb4-422c-8271-f0c08503026a",
+              "texto": "6. Cuando, calculado el grado de ajuste de las preferencias mostradas con respecto a las promociones a adjudicar, una persona tuviera derecho a resultar adjudicataria de una vivienda en más de una promoción, se le adjudicará aquella que esté incluida en una promoción con fecha de solicitud de calificación provisional anterior."
+            }
+          ]
+        },
+        {
+          "articulo": 41,
+          "titulo": "Alegaciones.",
+          "parrafos": [
+            {
+              "id": "2d25069a-c9f4-40b0-8e63-68cd97079fc3",
+              "texto": "1. Si el número de personas solicitantes inscritas en el Censo que hayan mostrado preferencia por una promoción de viviendas en concreto o por sus características, supera al de viviendas a adjudicar, se abrirá un plazo de diez días hábiles para la presentación de alegaciones. Este plazo comenzará a computar desde la fecha en que se produzca la publicación del listado de personas adjudicatarias inicialmente de vivienda en el Tablón de Anuncios Electrónico prevista en el apartado 6 del artículo 39 de este Decreto Foral."
+            },
+            {
+              "id": "596112f6-2ba3-4f18-b07b-09cada92c893",
+              "texto": "2. De conformidad con lo dispuesto en el apartado 1 del artículo 27 de este Decreto Foral, las alegaciones no podrán versar sobre aspectos ya valorados en la inscripción de cada una de las solicitudes."
+            },
+            {
+              "id": "c136c916-5a29-4b98-85bb-ed98b3b8aa9c",
+              "texto": "3. Las alegaciones presentadas serán resueltas en un plazo máximo de 10 días, contados desde la fecha en que concluyera el plazo de presentación de alegaciones."
+            },
+            {
+              "id": "dcfece50-bd9b-422f-83a7-957d43767b89",
+              "texto": "4. El listado de personas adjudicatarias inicialmente de vivienda protegida podrá verse modificado como consecuencia de la estimación de una alegación."
+            },
+            {
+              "id": "b06bf97d-4a8f-451c-a45a-cc5bc90cb7ec",
+              "texto": "5. La contestación de las alegaciones será susceptible de recurso de alzada."
+            }
+          ]
+        },
+        {
+          "articulo": 42,
+          "titulo": "Condición de adjudicatario provisional de una vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "1d46b813-32c8-425e-8349-296e3fd6a99d",
+              "texto": "1. Una vez resuelto el periodo de alegaciones previsto en el artículo anterior o, en su caso, se disponga de los listados a los que se refiere el artículo 39 del presente Decreto Foral, la sociedad instrumental gestora del Censo distribuirá entre las personas que hayan resultado adjudicatarias provisionalmente, la totalidad de las viviendas protegidas incluidas en el procedimiento de adjudicación en los términos de lo previsto en el apartado 1 del artículo 40 de este Decreto Foral."
+            },
+            {
+              "id": "24923a64-50d6-48d6-aff0-8db9bb556616",
+              "texto": "2. Las personas que hayan resultado adjudicatarias provisionalmente de una vivienda, deberán presentar ante la sociedad instrumental gestora del Censo en un plazo máximo de 10 días hábiles, contados desde la fecha en que se hubiera producido la publicación en el Tablón de Anuncios Electrónico de la lista de adjudicatarios provisionales de vivienda protegida prevista en el apartado 5 de este artículo, la siguiente documentación: a) Los documentos que acrediten la personalidad del adquirente, adjudicatario o arrendatario y los miembros de su unidad familiar. b) La declaración del Impuesto sobre la Renta de las Personas Físicas del año correspondiente. c) Certificado de discapacidad de los adjudicatarios, adquirentes, arrendatarios o de los miembros de su unidad familiar, si procede, en el que se indique si afecta a extremidades inferiores y el grado de discapacidad. d) Copia de los documentos, títulos o informes necesarios para acreditar el derecho de acceso a alguna de las reservas de viviendas legalmente previstas. e) Permiso de residencia expedido por la Administración del Estado, cuando dicho documento resulte exigible. f) Certificado de empadronamiento o de convivencia en el que se indique la antigüedad, expedido, como máximo, con una antelación de 1 mes. g) Copia de la sentencia judicial de separación o divorcio y el convenio regulador, así como, en su caso, de la escritura notarial por la que se regule la disolución de la pareja estable. h) Toda aquella documentación necesaria para asegurar que se cumple con los requisitos mínimos de acceso a vivienda protegida, así como que se ha aplicado correctamente el baremo único de acceso."
+            },
+            {
+              "id": "ddf060be-aac7-4715-ab43-ea01991d05a4",
+              "texto": "3. Se entenderá que el adjudicatario provisional de la vivienda ha renunciado tácitamente a la misma, cuando no hubiera entregado la documentación necesaria en el plazo señalado en el apartado anterior. En tal caso se procederá a la adjudicación de la vivienda a la persona siguiente que se encuentre en la misma reserva y tramo de renta que la persona renunciante, sin perjuicio de lo dispuesto en el artículo 32 de este Decreto Foral."
+            },
+            {
+              "id": "cbccec6f-8b5d-4a48-aa47-9514d976f96e",
+              "texto": "4. Las personas provisionalmente adjudicatarias deberán acreditar el cumplimiento de los requisitos de acceso a vivienda protegida, así como las circunstancias puntuables según los baremos establecidos en la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra , en las fechas establecida en el artículo 2 del presente Decreto Foral."
+            },
+            {
+              "id": "600c6c92-ce31-488b-8166-1bfce4e4607a",
+              "texto": "5. El listado de personas adjudicatarias provisionalmente de vivienda protegida se publicará obligatoriamente en el Tablón de Anuncios Electrónico a que se refiere el artículo 20 de este Decreto Foral."
+            },
+            {
+              "id": "fc4179df-ab09-42e7-be69-4964659208c5",
+              "texto": "6. La condición de adjudicatario provisional de vivienda, impedirá la participación en posteriores procedimientos de adjudicación, salvo en el caso de renuncia expresa a dicha condición con anterioridad al inicio del procedimiento en el que se pretenda participar, sin perjuicio de la posible exclusión del Censo que se podría producir por tal renuncia."
+            },
+            {
+              "id": "b45e1865-95e1-4b5f-ab93-bbe197b06b3f",
+              "texto": "7. La condición de adjudicatario provisional de una vivienda no genera derecho alguno sobre ninguna vivienda en concreto."
+            }
+          ]
+        },
+        {
+          "articulo": 43,
+          "titulo": "Autorización para la firma de los contratos.",
+          "parrafos": [
+            {
+              "id": "e89e735f-c50f-49ee-996a-06a37def14b4",
+              "texto": "1. El Departamento competente en materia de vivienda procederá al estudio de las adjudicaciones provisionalmente realizadas, con la finalidad de otorgar la autorización para la firma de los correspondientes contratos. A tal efecto, la sociedad instrumental gestora del Censo remitirá al Departamento competente en materia de vivienda el listado de personas adjudicatarias provisionalmente de vivienda junto con toda la documentación que hubieran presentado de acuerdo con lo dispuesto en el artículo anterior."
+            },
+            {
+              "id": "3fb6f1d3-8452-4b09-a761-4731e00a5617",
+              "texto": "2. La autorización para la firma de un contrato podrá denegarse cuando se constate una incorrecta obtención de puntuación otorgada en aplicación del baremo aplicable, el incumplimiento de alguno de los requisitos de acceso a vivienda protegida, o cuando se hayan ocultado datos, suscrito declaraciones falsas o no ajustadas a la realidad, aun a título de simple inobservancia, así como cuando se hayan falseado documentos, sin perjuicio, en estos tres últimos casos, de otras consecuencias que de tales actuaciones se pudieran derivar."
+            },
+            {
+              "id": "c82ea190-21fd-49f0-afe7-798a32b3c6ca",
+              "texto": "3. La denegación de la autorización para la firma de un contrato será motivada y susceptible de recurso de alzada."
+            },
+            {
+              "id": "a4873ebd-822d-4da4-8c68-261ee6ec6f27",
+              "texto": "4. Las autorizaciones otorgadas, así como las posibles denegaciones, se publicarán en el Tablón de Anuncios Electrónicos previsto en el artículo 20 del presente Decreto Foral."
+            }
+          ]
+        },
+        {
+          "articulo": 44,
+          "titulo": "Firma de los contratos.",
+          "parrafos": [
+            {
+              "id": "9e39270b-d325-4c9b-a03b-f8b9c3b5e9fc",
+              "texto": "1. Una vez autorizada la firma de los contratos la sociedad instrumental gestora del Censo remitirá a las empresas promotoras de las viviendas el listado de personas adjudicatarias de vivienda protegida."
+            },
+            {
+              "id": "b694215a-fe28-46a2-9810-78526b73ebde",
+              "texto": "2. Las empresas promotoras deberán proceder a la firma de los correspondientes contratos en el plazo máximo de un mes contado desde que hubieran tenido conocimiento de la autorización para su firma."
+            },
+            {
+              "id": "a6c4da8e-b73d-4517-a0cb-e123538cae9b",
+              "texto": "3. En el contrato que se firme deberán figurar necesariamente la totalidad de personas que aparecían como solicitantes en el Censo dentro de la correspondiente solicitud."
+            }
+          ]
+        },
+        {
+          "articulo": 45,
+          "titulo": "Renuncia a la condición de adjudicatario provisional.",
+          "parrafos": [
+            {
+              "id": "e4352c0e-ebc3-4cdd-93c1-bd4a490f65f2",
+              "texto": "1. En el caso de que alguna persona adjudicataria provisionalmente de vivienda protegida renuncie, expresa o tácitamente, a formalizar o no formalice el contrato en el plazo habilitado al efecto, se procederá a efectuar una nueva adjudicación a favor de la persona que figure en el primer lugar de la lista de espera correspondiente a la misma reserva, preferencias y tramo de renta que la persona renunciante. A estos efectos, se entenderá que la persona adjudicataria provisionalmente de una vivienda ha renunciado tácitamente a la misma cuando no comparezca a la firma del contrato en el plazo habilitado en el apartado 2 del artículo anterior."
+            },
+            {
+              "id": "a78c9f6b-a139-4755-bd45-fe22e957b49e",
+              "texto": "2. Las viviendas que vayan quedando vacantes por renuncia de las personas que hayan resultado adjudicatarias provisionalmente, se adjudicarán de acuerdo con lo dispuesto en el artículo 50 del presente Decreto Foral."
+            }
+          ]
+        },
+        {
+          "articulo": 46,
+          "titulo": "Visado de los contratos.",
+          "parrafos": [
+            {
+              "id": "6b045367-5c04-4e79-a5b7-1d8009130831",
+              "texto": "1. El visado administrativo es requisito para cualesquiera actos de disposición de viviendas protegidas nuevas que vayan a realizarse mediante el otorgamiento de escritura pública. El transmitente es responsable de su presentación. En caso de no existir visado administrativo o de apreciarse diferencias ente los términos de aquél y el contrato correspondiente, no procederá el otorgamiento de escritura pública ni su inscripción en el Registro de la Propiedad. Asimismo, los contratos de arrendamiento de viviendas protegidas están sometidos a visado."
+            },
+            {
+              "id": "1088ced5-5740-43ef-a14f-ca3cd3d7bf8d",
+              "texto": "2. El otorgamiento del visado al contrato implica la renuncia al ejercicio de los derechos de tanteo y retracto y el reconocimiento administrativo del cumplimiento de las condiciones legales exigidas para acceder a vivienda protegida y de la correcta aplicación del baremo de acceso. Asimismo, conlleva la determinación del importe estimado de las ayudas públicas correspondientes, dentro de las disponibilidades presupuestarias."
+            },
+            {
+              "id": "e3d2cf4e-e08e-4718-9d20-ac9ffde97930",
+              "texto": "3. El visado se solicitará en el plazo máximo de 15 días desde la fecha de suscripción de los contratos de compraventa, adjudicación o arrendamiento. Salvo manifestación expresa en contrario, la solicitud del visado conllevará la solicitud de las subvenciones que, en su caso, correspondan."
+            },
+            {
+              "id": "7e77a68f-10da-4a58-bcc3-afbae5d6aaf6",
+              "texto": "4. Si la última declaración de renta exigible se ha presentado ante la Hacienda Tributaria de Navarra, se presumirá, salvo prueba en contrario, el empadronamiento en Navarra y, en su caso, el permiso de residencia."
+            },
+            {
+              "id": "e572e1d2-8717-431c-82c1-7e7e1f35f5d7",
+              "texto": "5. El Departamento competente en materia de vivienda, a la vista de la documentación presentada, visará los contratos cuando cumplan las condiciones establecidas. En otro caso, denegará, mediante resolución motivada, el visado de todos o parte de los mismos. En caso de que el contrato contenga errores subsanables, se omita la presentación de algún documento necesario o resulte preciso recabar aclaraciones sobre aspectos relacionados con el proceso de selección y la aplicación del baremo, se concederá un plazo de subsanación de diez días. Transcurrido dicho plazo sin que sean subsanadas las deficiencias, la solicitud de visado será denegada mediante resolución motivada."
+            }
+          ]
+        },
+        {
+          "articulo": 47,
+          "titulo": "Modificación de visados.",
+          "parrafos": [
+            {
+              "id": "b6bb53ea-8b09-4cd8-a1ca-ca15e9fbadda",
+              "texto": "1. La cuantía y el porcentaje de las subvenciones y subsidiaciones reconocidas en las diligencias de visado no podrán ser revisados al alza, salvo en vía de recurso o de revisión de oficio. Las novaciones en el contrato de compraventa o en la adjudicación tampoco generarán derecho a la revisión al alza de las ayudas."
+            },
+            {
+              "id": "ae7b1408-0438-4cf7-9d81-7ede37823178",
+              "texto": "2. Una vez visados administrativamente los contratos de compraventa o de adjudicación de las viviendas no se admitirán cambios de titularidad o renuncias de un titular a favor del otro titular, salvo sucesión \"mortis causa\" de un cotitular a favor del otro."
+            },
+            {
+              "id": "21d4b6a6-bb08-491f-b044-628beb71c13d",
+              "texto": "3. Cuando se adjudique una vivienda protegida de acuerdo con lo dispuesto en el artículo 50 de este Decreto Foral, si son dos o más las personas adquirentes o adjudicatarias, la renuncia de alguno de ellos al contrato de compraventa o de adjudicación implicará la revisión de las condiciones de acceso a la vivienda protegida así como de las ayudas reconocidas. Estas últimas no podrán modificarse al alza en ningún caso."
+            }
+          ]
+        },
+        {
+          "articulo": 48,
+          "titulo": "Revisión de las subvenciones reconocidas por adquisición o adjudicación de vivienda protegida.",
+          "parrafos": [
+            {
+              "id": "c7b1794b-75ce-425f-8c11-9b6cb83df162",
+              "texto": "Las ayudas económicas reconocidas por adquisición o adjudicación de vivienda protegida se podrán reducir o suprimir cuando se den las siguientes circunstancias después de que se adjudique provisionalmente la vivienda y antes de elevar a escritura pública el título de propiedad de la vivienda protegida: a) Cuando el adquirente o adjudicatario contraiga matrimonio o forme pareja estable. En tal supuesto, se calcularán de nuevo las ayudas conforme a los ingresos familiares ponderados del adjudicatario y su consorte o pareja que deriven de las declaraciones del Impuesto sobre la Renta de las Personas Físicas del período impositivo que se tuvo en cuenta para el visado del contrato. b) Cuando el cónyuge o pareja estable del adquirente o adjudicatario sea titular del dominio de una vivienda o de parte alícuota de la misma en un porcentaje igual o superior al 50%. En este caso, procederá la devolución de la totalidad de las ayudas, salvo que la vivienda se haya declarado en ruina, o no reúna las condiciones de habitabilidad o esté fuera de ordenación. c) Cuando el adquirente o adjudicatario de la vivienda protegida adquiera a título oneroso cualquier participación sobre otra vivienda antes de inscribir en el Registro de la Propiedad el título de propiedad de la vivienda protegida. En este caso procederá la devolución de la totalidad de las ayudas."
+            }
+          ]
+        },
+        {
+          "articulo": 49,
+          "titulo": "Denegación de visados.",
+          "parrafos": [
+            {
+              "id": "14a2514b-e859-4122-9a77-7080442fb271",
+              "texto": "1. No podrán visarse los contratos que expresen una participación desigual en la propiedad de la vivienda, ni cuando se verifique el incumplimiento de algún requisito de acceso a vivienda protegida o que no se ha aplicado correctamente el baremo que corresponda."
+            },
+            {
+              "id": "e0453cc6-334f-43ae-8711-1a6071d810a6",
+              "texto": "2. La denegación del visado de un contrato deberá ser motivada y será susceptible de recurso de alzada."
+            },
+            {
+              "id": "2a4c911f-8764-4ac9-9f44-dd8ef69a6e3c",
+              "texto": "3. Cuando el Departamento competente en materia de vivienda deniegue motivadamente el visado del contrato, o el titular renuncie al mismo, no procederá su visado posterior en la misma promoción."
+            }
+          ],
+          "seccion": "Sección 5.ª: Adjudicación de las viviendas vacantes"
+        },
+        {
+          "articulo": 50,
+          "titulo": "Adjudicación de las viviendas vacantes.",
+          "parrafos": [
+            {
+              "id": "87b1f44d-f705-49a4-822d-38dd24f5894c",
+              "texto": "1. A los efectos de lo dispuesto en el presente Decreto Foral, se entenderá por vivienda vacante aquella vivienda protegida que quedara sin adjudicatario: a) Cuando al inicio del correspondiente procedimiento de adjudicación hubiera menos solicitantes que viviendas protegidas a adjudicar. b) Cuando al inicio del correspondiente procedimiento de adjudicación existieran más solicitantes que viviendas protegidas a adjudicar, pero su listado de solicitantes quedara agotado durante el trimestre correspondiente. c) No encontrándose en los apartados a y b anteriores, se produjeran renuncias o rescisiones de contratos visados con posterioridad."
+            },
+            {
+              "id": "e4eb3032-3e6d-485c-a8f8-782ecd1cd3e7",
+              "texto": "2. En el caso de viviendas vacantes que se encuentren en la situaciones descritas en los subapartados a) y b) del apartado anterior, el promotor podrá proponer la adjudicación de dichas viviendas a quien cumpla los requisitos de acceso a vivienda protegida establecidos en la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra . Asimismo, en el caso de que hubieran transcurrido más de 3 meses desde que se hubiera declarado desierta la adjudicación de la totalidad o de parte de las viviendas, el promotor podrá proponer su adjudicación de acuerdo con lo dispuesto en el artículo 19.a) de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra."
+            },
+            {
+              "id": "534166bd-3252-430e-97f6-2878fd4a88d4",
+              "texto": "3. Para la adjudicación de las viviendas vacantes que se encuentren en la situación descrita en el apartado 1.c) del presente artículo, el promotor deberá solicitar del órgano gestor del Censo que le proporcione un listado de solicitantes que hubieran mostrado preferencia por las características de la vivienda, para su gestión por orden de prelación. Si no existiera inscrito en el Censo ningún solicitante que hubiera mostrado preferencia por la vivienda vacante, el promotor podrá actuar de acuerdo con lo dispuesto en el apartado anterior."
+            },
+            {
+              "id": "a4130b3c-98c6-4ac1-8505-16c0ec544f3f",
+              "texto": "4. El visado de un contrato de adjudicación de una vivienda vacante supondrá la exención del cumplimiento del requisito de acceso que corresponda en cada caso. No obstante, cuando se presente a visado un contrato de adjudicación de una vivienda vacante se deberá indicar expresamente tal circunstancia."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "disposiciones adicionales": [
+    {
+      "titulo": "Disposición Adicional Undécima. Oficinas municipales y comarcales de rehabilitación de viviendas.",
+      "texto": "A efectos de lo dispuesto en el Decreto Foral 363/1997, de 9 de diciembre, por el que se regulan las funciones de las oficinas municipales y comarcales de rehabilitación y la concesión de ayudas para su financiación , y sin perjuicio de las oficinas de apoyo a las entidades locales gestionada por NASUR-SA en las zonas I y III, la relación de oficinas municipales y comarcales de rehabilitación de viviendas (ORVES), ya existentes, y de los entes de las que dependen, es la siguiente: a) ORVE Valles precantábricos, dependiente de la Mancomunidad de la Comarca de Sakana. b) ORVE Pamplona, dependiente del Ayuntamiento de Pamplona. c) ORVE Comarca de Pamplona, dependiente de la Agrupación de Ayuntamientos para la gestión de la Oficina de Rehabilitación de Viviendas de Pamplona y Comarca. d) ORVE Tierra Estella, dependiente de la Mancomunidad de Montejurra. e) ORVE Tafalla y comarca, dependiente de la Agrupación de Ayuntamientos para la gestión de la Oficina de Rehabilitación de Viviendas de Tafalla y Comarca. f) ORVE Ribera de Tudela, dependiente de la Mancomunidad de Residuos sólidos de la Ribera."
+    }
+  ],
+  "disposiciones transitorias": [
+    {
+      "titulo": "Disposición Transitoria Novena. Cancelación de avales.",
+      "texto": "A la entrada en vigor de este Decreto Foral, los avales depositados en garantía de las subvenciones por adquisición de vivienda protegida cuyo importe no exceda de 60.000 euros se considerarán cancelados."
+    }
+  ],
+  "disposiciones derogatorias": [
+    {
+      "titulo": "Disposición Derogatoria Única. Derogación normativa.",
+      "texto": "Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Decreto Foral. Particularmente, quedan derogados los artículos 5, 6 , 8 , 19, 20, 21, 22 , 24 , 26, 27, 28 , 37, 38 , 43, 44, 45 , 70 , 73, 74, 75 , las disposiciones adicionales duodécima , decimocuarta , decimosexta y vigésimo segunda del Decreto Foral 4/2006, de 9 de enero, por el que se regulan las actuaciones protegibles en materia de vivienda y el fomento de la edificación residencial."
+    }
+  ],
+  "disposiciones finales": [
+    {
+      "titulo": "Disposición Final Cuarta. Entrada en vigor.",
+      "texto": "El presente Decreto Foral entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Navarra."
+    }
+  ],
+  "stats": {
+    "total_paragraphs": 172,
+    "max_length": 4570,
+    "min_length": 76,
+    "avg_length": 549.0,
+    "total_characters": 94428
+  }
+}
