@@ -23,6 +23,7 @@ from langchain.schema.runnable import RunnablePassthrough
 # Environment variables
 GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
 GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 class SpanishLawRAG:
     def __init__(self, use_pgvector: bool = False, database_url: Optional[str] = None):
@@ -30,9 +31,9 @@ class SpanishLawRAG:
         
         # Initialize LLM
         self.llm = ChatOpenAI(
-            model="gpt-4",
+            model="gpt-4.1-2025-04-14",
             openai_api_base=GALILEO_BASE_URL,
-            openai_api_key=GALILEO_API_KEY,
+            openai_api_key=OPENAI_API_KEY,
             temperature=0.1
         )
         
