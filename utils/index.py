@@ -29,8 +29,8 @@ class SpanishLawIndexer:
     def __init__(self, resources_dir: str = "resources"):
         self.resources_dir = Path(resources_dir)
         self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1000,
-            chunk_overlap=200,
+            chunk_size=500,  # Reduced chunk size to stay within token limits
+            chunk_overlap=100,  # Reduced overlap proportionally
             separators=["\n\n", "\n", ". ", " ", ""]
         )
         
