@@ -39,7 +39,7 @@ class PortkeyEmbeddings(Embeddings):
                 batch = texts[i:i + self.batch_size]
                 print(f"Processing batch {i//self.batch_size + 1}/{(len(texts) + self.batch_size - 1)//self.batch_size} ({len(batch)} texts)")
                 
-                response = self.client.portkey.embeddings.create(
+                response = self.client.embeddings.create(
                     input=batch,
                     model=self.model
                 )
@@ -56,7 +56,7 @@ class PortkeyEmbeddings(Embeddings):
     def embed_query(self, text: str) -> List[float]:
         """Embed a single query using Portkey."""
         try:
-            response = self.client.portkey.embeddings.create(
+            response = self.client.embeddings.create(
                 input=[text],
                 model=self.model
             )
