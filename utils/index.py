@@ -19,7 +19,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Portkey configuration (from README example)
 import os
-from portkey import Portkey
+from portkey_ai import Portkey
 
 # Environment variables
 GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
@@ -183,7 +183,7 @@ class SpanishLawIndexer:
         vectorstore = FAISS.from_documents(all_chunks, self.embeddings)
         
         # Save the index
-        index_path = output_path / "spanish_laws_faiss"
+        index_path = output_path / "inma_faiss"
         vectorstore.save_local(str(index_path))
         
         print(f"FAISS index saved to {index_path}")
