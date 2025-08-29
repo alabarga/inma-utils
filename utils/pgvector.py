@@ -16,7 +16,7 @@ import numpy as np
 
 from langchain_core.documents import Document
 from langchain_community.vectorstores import PGVector
-from utils.embeddings import PortkeyEmbeddings
+from .embeddings import PortkeyEmbeddings
 from portkey_ai import Portkey
 
 # Environment variables
