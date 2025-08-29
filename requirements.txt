@@ -9,7 +9,7 @@ faiss-cpu>=1.7.4
 psycopg2-binary>=2.9.7
 
 # Model access
-portkey>=0.1.0
+portkey-ai>=0.1.0
 openai>=1.0.0
 
 # Text processing

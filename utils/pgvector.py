@@ -16,21 +16,25 @@ import numpy as np
 
 from langchain_core.documents import Document
 from langchain_community.vectorstores import PGVector
-from langchain_openai import OpenAIEmbeddings
+from utils.embeddings import PortkeyEmbeddings
+from portkey_ai import Portkey
 
 # Environment variables
 GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
 GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://user:password@localhost:5432/spanish_laws")
 
+
 class PGVectorMigrator:
     def __init__(self, database_url: str = DATABASE_URL):
         self.database_url = database_url
-        self.embeddings = OpenAIEmbeddings(
-            model='text-embedding-004',
-            openai_api_base=GALILEO_BASE_URL,
-            openai_api_key=GALILEO_API_KEY
+        # Initialize Portkey client as specified in README
+        self.client = Portkey(
+            api_key=GALILEO_API_KEY,
+            provider="vertex-ai",
+            base_url=GALILEO_BASE_URL,
         )
+        self.embeddings = PortkeyEmbeddings(self.client, model="text-embedding-004")
         
     def setup_database(self):
         """Set up the database with pgvector extension and required tables."""

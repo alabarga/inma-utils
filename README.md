@@ -36,8 +36,8 @@ inma-utils/
 source ~/code/environments/datascience_env/bin/activate
 
 # Set environment variables
-export GALILEO_API_KEY="your_galileo_api_key"
-export GALILEO_BASE_URL="your_galileo_base_url"
+export GALILEO_API_KEY="your_gcp_portkey_api_key_for_region"
+export GALILEO_BASE_URL="https://eu.aigw.galileo.roche.com/v1"
 ```
 
 ### 2. Parse Law Documents
@@ -87,7 +87,7 @@ python app/chatbot/chatbot.py
 
 2. **Indexer (`utils/index.py`)**
    - Creates FAISS vector index from JSON files
-   - Uses Portkey for embeddings
+   - Uses Portkey client directly for embeddings (as per README)
    - Stores rich metadata for each chunk
 
 3. **Database Migration (`utils/pgvector.py`)**
@@ -213,7 +213,7 @@ Each document chunk includes:
 
 ### Current Implementation
 - **LangChain**: RAG pipeline, document processing, vector stores
-- **Portkey**: Model access and embeddings
+- **Portkey**: Model access and embeddings (direct client usage with vertex-ai provider)
 - **FAISS/pgvector**: Vector storage and retrieval
 
 ### Future Enhancements
@@ -246,10 +246,24 @@ Each document chunk includes:
 
 ## 🔒 Environment Variables
 
+### Portkey Configuration
+
+The system uses Portkey with the vertex-ai provider for embeddings:
+
+```python
+client = Portkey(
+    api_key="your_gcp_portkey_api_key_for_region",
+    provider="vertex-ai",
+    base_url="https://eu.aigw.galileo.roche.com/v1",
+)
+```
+
+### Environment Variables
+
 ```bash
 # Required
-GALILEO_API_KEY=your_galileo_api_key
-GALILEO_BASE_URL=your_galileo_base_url
+GALILEO_API_KEY=your_gcp_portkey_api_key_for_region
+GALILEO_BASE_URL=https://eu.aigw.galileo.roche.com/v1
 
 # Optional (for pgvector)
 DATABASE_URL=postgresql://user:password@localhost:5432/spanish_laws
