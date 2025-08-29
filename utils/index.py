@@ -197,7 +197,7 @@ class SpanishLawIndexer:
     
     def load_faiss_index(self, index_path: str):
         """Load an existing FAISS index."""
-        return FAISS.load_local(index_path, self.embeddings)
+        return FAISS.load_local(index_path, self.embeddings, allow_dangerous_deserialization=True)
 
 
 def main():
