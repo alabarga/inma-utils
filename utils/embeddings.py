@@ -72,14 +72,14 @@ class PortkeyEmbeddings(Embeddings):
                     
                     # Process each sub-batch
                     for sub_batch in sub_batches:
-                        response = self.client.portkey.embeddings.create(
+                        response = self.client.embeddings.create(
                             input=sub_batch,
                             model=self.model
                         )
                         all_embeddings.extend([embedding.embedding for embedding in response.data])
                 else:
                     # Process normal batch
-                    response = self.client.portkey.embeddings.create(
+                    response = self.client.embeddings.create(
                         input=batch_texts,
                         model=self.model
                     )
@@ -102,6 +102,7 @@ class PortkeyEmbeddings(Embeddings):
             return response.data[0].embedding
         except Exception as e:
             print(f"Error embedding query: {e}")
+            print(self)
             raise
 
 
@@ -145,6 +146,23 @@ class ProxyEmbeddings(Embeddings):
         else:
             raise ValueError(f"Unsupported embeddings provider: {self.provider}. Use 'portkey' or 'openai'")
     
+    def __str__(self) -> str:
+        """String representation for debugging."""
+        api_key = os.getenv("EMBEDDINGS_API_KEY", "NOT_SET")
+        base_url = os.getenv("EMBEDDINGS_BASE_URL", "NOT_SET")
+        provider = os.getenv("EMBEDDINGS_PROVIDER", "openai")
+        
+        # Mask API key for security
+        masked_key = f"{api_key[:8]}..." if api_key != "NOT_SET" and len(api_key) > 8 else api_key
+        
+        return (f"ProxyEmbeddings(provider='{provider}', model='{self.model}', "
+                f"api_key='{masked_key}', base_url='{base_url}', "
+                f"embeddings_type='{type(self.embeddings).__name__}')")
+    
+    def __repr__(self) -> str:
+        """Detailed representation for debugging."""
+        return self.__str__()
+    
     def embed_documents(self, texts: List[str]) -> List[List[float]]:
         """Embed documents using the selected provider."""
         return self.embeddings.embed_documents(texts)
@@ -152,3 +170,4 @@ class ProxyEmbeddings(Embeddings):
     def embed_query(self, text: str) -> List[float]:
         """Embed a query using the selected provider."""
         return self.embeddings.embed_query(text)
+
