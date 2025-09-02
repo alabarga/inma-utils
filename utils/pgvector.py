@@ -16,20 +16,19 @@ import numpy as np
 
 from langchain_core.documents import Document
 from langchain_community.vectorstores import PGVector
-from .embeddings import PortkeyEmbeddings
-from portkey_ai import Portkey
+from .embeddings import ProxyEmbeddings
 
 # Environment variables
-GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
-GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
+EMBEDDINGS_API_KEY = os.getenv("EMBEDDINGS_API_KEY")
+EMBEDDINGS_BASE_URL = os.getenv("EMBEDDINGS_BASE_URL")
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://user:password@localhost:5432/spanish_laws")
 
 
 class PGVectorMigrator:
     def __init__(self, database_url: str = DATABASE_URL):
         self.database_url = database_url
-        # Initialize embeddings using the shared class
-        self.embeddings = PortkeyEmbeddings(model="text-embedding-004")
+        # Initialize embeddings using the proxy class
+        self.embeddings = ProxyEmbeddings()
         
     def setup_database(self):
         """Set up the database with pgvector extension and required tables."""

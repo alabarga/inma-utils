@@ -21,28 +21,31 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.schema.runnable import RunnablePassthrough
 
 # Environment variables
-GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
-GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+EMBEDDINGS_API_KEY = os.getenv("EMBEDDINGS_API_KEY")
+EMBEDDINGS_BASE_URL = os.getenv("EMBEDDINGS_BASE_URL")
+EMBEDDINGS_MODEL = os.getenv("EMBEDDINGS_MODEL", "text-embedding-ada-002")
+LLM_API_KEY = os.getenv("LLM_API_KEY")
+LLM_BASE_URL = os.getenv("LLM_BASE_URL")
+LLM_MODEL = os.getenv("LLM_MODEL", "gpt-4.1-2025-04-14")
 
-class SpanishLawRAG:
+class InmaRAG:
     def __init__(self, use_pgvector: bool = False, database_url: Optional[str] = None):
         self.use_pgvector = use_pgvector
         
         # Initialize LLM
         self.llm = ChatOpenAI(
-            model="gpt-4.1-2025-04-14",
-            openai_api_base=GALILEO_BASE_URL,
-            openai_api_key=OPENAI_API_KEY,
+            model=LLM_MODEL,
+            openai_api_base=LLM_BASE_URL,
+            openai_api_key=LLM_API_KEY,
             temperature=0.1
         )
         
         # Initialize vector store
         if use_pgvector and database_url:
             from langchain_community.vectorstores import PGVector
-            from utils.embeddings import PortkeyEmbeddings
+            from utils.embeddings import ProxyEmbeddings
             
-            embeddings = PortkeyEmbeddings(model="text-embedding-004")
+            embeddings = ProxyEmbeddings(model=EMBEDDINGS_MODEL)
             
             self.vectorstore = PGVector(
                 collection_name="spanish_laws",
@@ -52,9 +55,9 @@ class SpanishLawRAG:
         else:
             # Use FAISS
             from langchain_community.vectorstores import FAISS
-            from utils.embeddings import PortkeyEmbeddings
+            from utils.embeddings import ProxyEmbeddings
             
-            embeddings = PortkeyEmbeddings(model="text-embedding-004")
+            embeddings = ProxyEmbeddings(model=EMBEDDINGS_MODEL)
             
             index_path = project_root / "indexes" / "inma_faiss"
             if index_path.exists():
@@ -124,7 +127,7 @@ def main():
     
     try:
         # Initialize RAG system
-        rag = SpanishLawRAG(use_pgvector=args.use_pgvector, database_url=args.database_url)
+        rag = InmaRAG(use_pgvector=args.use_pgvector, database_url=args.database_url)
         
         if args.interactive:
             print("RAG CLI para Leyes Españolas")

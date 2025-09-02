@@ -18,14 +18,14 @@ from langchain_core.embeddings import Embeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Import shared embeddings class
-from .embeddings import PortkeyEmbeddings
+from .embeddings import ProxyEmbeddings
 
 # Environment variables
-GALILEO_API_KEY = os.getenv("GALILEO_API_KEY")
-GALILEO_BASE_URL = os.getenv("GALILEO_BASE_URL")
+EMBEDDINGS_API_KEY = os.getenv("EMBEDDINGS_API_KEY")
+EMBEDDINGS_BASE_URL = os.getenv("EMBEDDINGS_BASE_URL")
 
 
-class SpanishLawIndexer:
+class InmaIndexer:
     def __init__(self, resources_dir: str = "resources"):
         self.resources_dir = Path(resources_dir)
         self.text_splitter = RecursiveCharacterTextSplitter(
@@ -34,8 +34,8 @@ class SpanishLawIndexer:
             separators=["\n\n", "\n", ". ", " ", ""]
         )
         
-        # Initialize embeddings using the shared class
-        self.embeddings = PortkeyEmbeddings(model="text-embedding-004")
+        # Initialize embeddings using the proxy class
+        self.embeddings = ProxyEmbeddings()
         
     def load_law_documents(self) -> List[Dict[str, Any]]:
         """Load all structured JSON law files."""
@@ -202,7 +202,7 @@ class SpanishLawIndexer:
 
 def main():
     """Main function to create the FAISS index."""
-    indexer = SpanishLawIndexer()
+    indexer = InmaIndexer()
     
     try:
         index_path = indexer.create_faiss_index()

@@ -35,9 +35,16 @@ inma-utils/
 # Activate virtual environment
 source ~/code/environments/datascience_env/bin/activate
 
-# Set environment variables
-export GALILEO_API_KEY="your_gcp_portkey_api_key_for_region"
-export GALILEO_BASE_URL="https://eu.aigw.galileo.roche.com/v1"
+# Set environment variables for embeddings (choose one provider)
+export EMBEDDINGS_PROVIDER="portkey"  # or "openai"
+export EMBEDDINGS_API_KEY="your_api_key"
+export EMBEDDINGS_BASE_URL="https://eu.aigw.galileo.roche.com/v1"  # for Portkey
+export EMBEDDINGS_MODEL="text-embedding-004"  # for Portkey, "text-embedding-ada-002" for OpenAI
+
+# Set environment variables for LLM
+export LLM_API_KEY="your_llm_api_key"
+export LLM_BASE_URL="https://eu.aigw.galileo.roche.com/v1"  # or OpenAI base URL
+export LLM_MODEL="gpt-4.1-2025-04-14"  # or any other model
 ```
 
 ### 2. Parse Law Documents
@@ -246,27 +253,55 @@ Each document chunk includes:
 
 ## 🔒 Environment Variables
 
-### Portkey Configuration
+### Embeddings Configuration
 
-The system uses Portkey with the vertex-ai provider for embeddings:
+The system supports two embedding providers through a proxy class:
 
-```python
-client = Portkey(
-    api_key="your_gcp_portkey_api_key_for_region",
-    provider="vertex-ai",
-    base_url="https://eu.aigw.galileo.roche.com/v1",
-)
+#### Portkey Provider (Default)
+```bash
+# For Portkey with vertex-ai provider
+export EMBEDDINGS_PROVIDER="portkey"
+export EMBEDDINGS_API_KEY="your_gcp_portkey_api_key_for_region"
+export EMBEDDINGS_BASE_URL="https://eu.aigw.galileo.roche.com/v1"
+export EMBEDDINGS_MODEL="text-embedding-004"
 ```
 
-### Environment Variables
-
+#### OpenAI Provider
 ```bash
-# Required
-GALILEO_API_KEY=your_gcp_portkey_api_key_for_region
-GALILEO_BASE_URL=https://eu.aigw.galileo.roche.com/v1
+# For OpenAI embeddings
+export EMBEDDINGS_PROVIDER="openai"
+export EMBEDDINGS_API_KEY="your_openai_api_key"
+export EMBEDDINGS_BASE_URL="https://api.openai.com/v1"  # Optional, defaults to OpenAI
+export EMBEDDINGS_MODEL="text-embedding-ada-002"
+```
+
+### LLM Configuration
+```bash
+# For LLM (ChatGPT, etc.)
+export LLM_API_KEY="your_llm_api_key"
+export LLM_BASE_URL="https://eu.aigw.galileo.roche.com/v1"  # or OpenAI base URL
+export LLM_MODEL="gpt-4.1-2025-04-14"  # or any other model
 
 # Optional (for pgvector)
-DATABASE_URL=postgresql://user:password@localhost:5432/spanish_laws
+export DATABASE_URL="postgresql://user:password@localhost:5432/spanish_laws"
+```
+
+### Environment Variables Summary
+
+```bash
+# Required for embeddings
+export EMBEDDINGS_PROVIDER="portkey"  # or "openai"
+export EMBEDDINGS_API_KEY="your_api_key"
+export EMBEDDINGS_BASE_URL="your_base_url"
+export EMBEDDINGS_MODEL="text-embedding-004"  # for Portkey, "text-embedding-ada-002" for OpenAI
+
+# Required for LLM
+export LLM_API_KEY="your_llm_api_key"
+export LLM_BASE_URL="your_llm_base_url"
+export LLM_MODEL="gpt-4.1-2025-04-14"  # or any other model
+
+# Optional
+export DATABASE_URL="postgresql://user:password@localhost:5432/spanish_laws"
 ```
 
 ## 📈 Statistics
@@ -327,3 +362,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - LangChain community for the excellent RAG framework
 - Portkey for model access infrastructure
 - FAISS and pgvector for vector storage solutions
+
+
+
