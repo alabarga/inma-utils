@@ -41,8 +41,11 @@ class InmaIndexer:
         """Load all structured JSON law files."""
         documents = []
         
+        # List of files that are actual laws (not FAQs or other data)
+        law_files = ['12302.json', '29980.json', '32564.json']
+        
         for json_file in self.resources_dir.glob("*.json"):
-            if json_file.name.endswith('.json') and not json_file.name.endswith('_clean.json'):
+            if json_file.name in law_files:
                 print(f"Loading {json_file.name}...")
                 with open(json_file, 'r', encoding='utf-8') as f:
                     law_data = json.load(f)
