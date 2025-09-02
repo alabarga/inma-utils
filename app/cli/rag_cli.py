@@ -59,7 +59,11 @@ class InmaRAG:
             
             embeddings = ProxyEmbeddings(model=EMBEDDINGS_MODEL)
             
-            index_path = project_root / "indexes" / "inma_faiss"
+            # Get model name and construct index path
+            model_name = os.getenv("EMBEDDINGS_MODEL", "text-embedding-ada-002")
+            index_name = f"inma_faiss_{model_name.replace('-', '_').replace('.', '_')}"
+            index_path = project_root / "indexes" / index_name
+            
             if index_path.exists():
                 self.vectorstore = FAISS.load_local(str(index_path), embeddings, allow_dangerous_deserialization=True)
             else:
@@ -107,7 +111,7 @@ class InmaRAG:
     def search_documents(self, query: str, k: int = 5) -> List:
         """Search for relevant documents without generating a response."""
         try:
-            docs = self.retriever.get_relevant_documents(query)
+            docs = self.retriever.invoke(query)
             return docs
         except Exception as e:
             print(f"Error al buscar documentos: {str(e)}")

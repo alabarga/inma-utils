@@ -13,7 +13,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 import numpy as np
 
-from utils.create_evaluation_embeddings import QAEvaluationEmbeddings
+from utils.dedeplicate.create_evaluation_embeddings import QAEvaluationEmbeddings
 
 
 class RAGEvaluator:

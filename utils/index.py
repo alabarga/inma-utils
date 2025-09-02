@@ -171,8 +171,12 @@ class InmaIndexer:
         print("Creating FAISS index...")
         vectorstore = FAISS.from_documents(all_chunks, self.embeddings)
         
-        # Save the index
-        index_path = output_path / "inma_faiss"
+        # Get model name from environment or use default
+        model_name = os.getenv("EMBEDDINGS_MODEL", "text-embedding-ada-002")
+        
+        # Save the index with model name
+        index_name = f"inma_faiss_{model_name.replace('-', '_').replace('.', '_')}"
+        index_path = output_path / index_name
         vectorstore.save_local(str(index_path))
         
         print(f"FAISS index saved to {index_path}")
@@ -181,13 +185,13 @@ class InmaIndexer:
         index_metadata = {
             'total_chunks': len(all_chunks),
             'laws_processed': len(law_documents),
-            'embedding_model': 'text-embedding-004',
-            'chunk_size': 1000,
-            'chunk_overlap': 200,
+            'embedding_model': model_name,
+            'chunk_size': 500,
+            'chunk_overlap': 100,
             'index_path': str(index_path)
         }
         
-        metadata_path = output_path / "index_metadata.json"
+        metadata_path = output_path / f"{index_name}_metadata.json"
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(index_metadata, f, indent=2, ensure_ascii=False)
         

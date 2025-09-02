@@ -102,7 +102,6 @@ class PortkeyEmbeddings(Embeddings):
             return response.data[0].embedding
         except Exception as e:
             print(f"Error embedding query: {e}")
-            print(self)
             raise
 
 
