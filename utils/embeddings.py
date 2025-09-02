@@ -95,7 +95,7 @@ class PortkeyEmbeddings(Embeddings):
         """Embed a single query using Portkey."""
         try:
             truncated_text = self._truncate_text(text)
-            response = self.client.portkey.embeddings.create(
+            response = self.client.embeddings.create(
                 input=[truncated_text],
                 model=self.model
             )
